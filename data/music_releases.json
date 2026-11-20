@@ -1,7 +1,78 @@
 {
- "updated": "2026-11-15 13:53",
+ "updated": "2026-11-20 09:58",
  "regions": {
   "JP": [
+   {
+    "id": "6819134538",
+    "title": "Jewelry Basket",
+    "artist": "Travis Japan",
+    "date": "2026-11-18",
+    "url": "https://music.apple.com/jp/album/jewelry-basket/6819134538",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/da/d9/6bdad980-a723-2291-d36a-10c56cd30223/26UM1IM15358.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
+    ]
+   },
+   {
+    "id": "6815571780",
+    "title": "AAO - EP",
+    "artist": "JO1",
+    "date": "2026-11-18",
+    "url": "https://music.apple.com/jp/album/aao-ep/6815571780",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/00/c1/b100c19c-54cc-e51d-bcee-911c7d43d737/4582109079263.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
+    ]
+   },
+   {
+    "id": "6831055895",
+    "title": "エンバートーチ/はじまりのさよなら/Umm - EP",
+    "artist": "sumika",
+    "date": "2026-11-18",
+    "url": "https://music.apple.com/jp/album/%E3%82%A8%E3%83%B3%E3%83%90%E3%83%BC%E3%83%88%E3%83%BC%E3%83%81-%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8A%E3%81%AE%E3%81%95%E3%82%88%E3%81%AA%E3%82%89-umm-ep/6831055895",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/93/9a/0a939a66-2815-aa1f-fdee-855be8824ab8/4547366867497.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
+    ]
+   },
+   {
+    "id": "6833387063",
+    "title": "PERFECT STORM - EP",
+    "artist": "TOMORROW X TOGETHER",
+    "date": "2026-11-16",
+    "url": "https://music.apple.com/jp/album/perfect-storm-ep/6833387063",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/25/85/6b25852a-ba0e-cd2f-e09c-98dd05f97d9a/26UM1IM45979.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "K-Pop",
+     "ポップ"
+    ]
+   },
+   {
+    "id": "6825761902",
+    "title": "Aurora",
+    "artist": "STARGLOW",
+    "date": "2026-11-16",
+    "url": "https://music.apple.com/jp/album/aurora/6825761902",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/e7/9b/65e79b76-5634-3cbb-5563-3f40184f47cf/ANTCD-A0000021490.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
+    ]
+   },
    {
     "id": "6812412381",
     "title": "Carnaval De Luz",
@@ -29,20 +100,6 @@
     "genre_names": [
      "K-Pop",
      "ポップ"
-    ]
-   },
-   {
-    "id": "6832783991",
-    "title": "GMFU",
-    "artist": "オフセット",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/jp/album/gmfu/6832783991",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c1/26/bc/c126bca7-bee0-8d53-c8eb-72d3df9c3731/26UM1IM16316.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "ヒップホップ／ラップ"
     ]
    },
    {
@@ -114,20 +171,6 @@
     ],
     "genre_names": [
      "オルタナティブ"
-    ]
-   },
-   {
-    "id": "6826993131",
-    "title": "YOASOBI 5th ANNIVERSARY DOME LIVE 2024 “超現実” at TOKYO DOME",
-    "artist": "YOASOBI",
-    "date": "2026-11-04",
-    "url": "https://music.apple.com/jp/album/yoasobi-5th-anniversary-dome-live-2024-%E8%B6%85%E7%8F%BE%E5%AE%9F-at-tokyo-dome/6826993131",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/a3/81/f7a381e9-cc40-58c9-02a5-55ffc59aeece/711641100775.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
     ]
    },
    {
@@ -244,17 +287,15 @@
     ]
    },
    {
-    "id": "6819162411",
-    "title": "ファーストキス",
-    "artist": "離婚伝説",
-    "date": "2026-10-21",
-    "url": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%AD%E3%82%B9/6819162411",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/6e/27/5b6e279e-14af-0e1c-494a-c02cd5369e65/4547366858730.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
+    "id": "6823166840",
+    "title": "DREAMSCAPE",
+    "artist": "JEONGHAN & JOSHUA",
+    "date": "2026-10-19",
+    "url": "https://music.apple.com/jp/album/dreamscape/6823166840",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3f/eb/a2/3feba289-7d8f-ead4-9df0-7593bf1e7dae/26UM1IM33265.rgb.jpg/300x300bb.jpg",
+    "genres": [],
     "genre_names": [
-     "J-Pop"
+     "ダンス"
     ]
    },
    {
@@ -264,20 +305,6 @@
     "date": "2026-10-16",
     "url": "https://music.apple.com/jp/album/sixtones-live-tour-2026-milesixtones/6819695629",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/02/63/7d0263cf-8549-6a3d-30cb-0eb2e2c114a8/4547366859164.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
-    ]
-   },
-   {
-    "id": "6819972337",
-    "title": "愛MUST BE(Special Edition)",
-    "artist": "櫻坂46",
-    "date": "2026-10-14",
-    "url": "https://music.apple.com/jp/album/%E6%84%9Bmust-be-special-edition/6819972337",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/04/8e/94/048e9483-51e7-46c4-1b33-50d0d87478e5/4547366858808.jpg/300x300bb.jpg",
     "genres": [
      "pop"
     ],
@@ -340,34 +367,6 @@
     "genre_names": [
      "ヒップホップ／ラップ"
     ]
-   },
-   {
-    "id": "6803798492",
-    "title": "LOVE ENG!NE",
-    "artist": "M!LK",
-    "date": "2026-09-16",
-    "url": "https://music.apple.com/jp/album/love-eng-ne/6803798492",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d0/c1/3e/d0c13e26-39b8-76b3-8ba5-b4412872260f/VEATP-45880.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
-    ]
-   },
-   {
-    "id": "6799944399",
-    "title": "運命さがし EP",
-    "artist": "マカロニえんぴつ",
-    "date": "2026-09-16",
-    "url": "https://music.apple.com/jp/album/%E9%81%8B%E5%91%BD%E3%81%95%E3%81%8C%E3%81%97-ep/6799944399",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/df/cb/48/dfcb486d-4109-e643-6299-694336036dda/4094482.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
-    ]
    }
   ],
   "US": [
@@ -382,6 +381,45 @@
     "genre_names": [
      "Soundtrack"
     ]
+   },
+   {
+    "id": "6827357170",
+    "title": "Daughter from Hell (Deluxe)",
+    "artist": "Gracie Abrams",
+    "date": "2026-11-20",
+    "url": "https://music.apple.com/us/album/daughter-from-hell-deluxe/6827357170",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/d4/d3/10d4d3c1-1832-f04c-5883-39fe81ed21fa/26UM1IM32920.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "Pop",
+     "Singer/Songwriter"
+    ]
+   },
+   {
+    "id": "6831773090",
+    "title": "SWAGSTER !",
+    "artist": "Lil Tony Official",
+    "date": "2026-11-19",
+    "url": "https://music.apple.com/us/album/swagster/6831773090",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/e5/9a/9ce59ad1-1c44-0d33-2263-d87854714842/711209484989.png/300x300bb.jpg",
+    "genres": [
+     "hiphop"
+    ],
+    "genre_names": [
+     "Hip-Hop/Rap"
+    ]
+   },
+   {
+    "id": "6823312075",
+    "title": "Time and Space",
+    "artist": "Olamide",
+    "date": "2026-11-16",
+    "url": "https://music.apple.com/us/album/time-and-space/6823312075",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/b6/c5/11b6c531-93fa-5a3c-0a7c-cb027b090b32/199316822236_cover.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": []
    },
    {
     "id": "6829222417",
@@ -431,7 +469,7 @@
     "artist": "Westside Gunn",
     "date": "2026-11-13",
     "url": "https://music.apple.com/us/album/heelmatic/6825097873",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/08/cf/e008cf0c-ef36-af3c-92cb-64263cf140d7/711641044048.jpg/300x300bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/52/57/b0525718-8b45-0dbc-5ca8-fa839ad1707a/711641044048.jpg/300x300bb.jpg",
     "genres": [
      "hiphop"
     ],
@@ -451,20 +489,6 @@
     ],
     "genre_names": [
      "R&B/Soul"
-    ]
-   },
-   {
-    "id": "6812412381",
-    "title": "Carnaval De Luz",
-    "artist": "U2",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/us/album/carnaval-de-luz/6812412381",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "rock"
-    ],
-    "genre_names": [
-     "Rock"
     ]
    },
    {
@@ -496,17 +520,44 @@
     ]
    },
    {
-    "id": "6823287348",
-    "title": "A Friend of Ours 2",
-    "artist": "Benny the Butcher, Black Soprano Family & Fuego Base",
+    "id": "6812412381",
+    "title": "Carnaval De Luz",
+    "artist": "U2",
     "date": "2026-11-13",
-    "url": "https://music.apple.com/us/album/a-friend-of-ours-2/6823287348",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/ad/cb/a4adcb64-d3d8-4eec-33b0-85a64cef4e38/885288763201.jpg/300x300bb.jpg",
+    "url": "https://music.apple.com/us/album/carnaval-de-luz/6812412381",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "rock"
+    ],
+    "genre_names": [
+     "Rock"
+    ]
+   },
+   {
+    "id": "6814870921",
+    "title": "The Hunger Games: Sunrise on the Reaping - The Album",
+    "artist": "Various Artists",
+    "date": "2026-11-13",
+    "url": "https://music.apple.com/us/album/the-hunger-games-sunrise-on-the-reaping-the-album/6814870921",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/a0/db/dea0db01-b9a7-173e-ccb2-c07c31f634bb/26UM1IM10359.rgb.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Soundtrack"
+    ]
+   },
+   {
+    "id": "6834088684",
+    "title": "#MonstersUnderMyBed",
+    "artist": "Tay-K",
+    "date": "2026-11-13",
+    "url": "https://music.apple.com/us/album/monstersundermybed/6834088684",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/61/49/1a614972-4c41-8d8c-0bad-9f1be5c1d0ff/612891356908.jpg/300x300bb.jpg",
     "genres": [
      "hiphop"
     ],
     "genre_names": [
-     "Hip-Hop/Rap"
+     "Hip-Hop/Rap",
+     "Electronic"
     ]
    },
    {
@@ -524,65 +575,12 @@
     ]
    },
    {
-    "id": "6814870921",
-    "title": "The Hunger Games: Sunrise on the Reaping - The Album",
-    "artist": "Various Artists",
+    "id": "6823287348",
+    "title": "A Friend of Ours 2",
+    "artist": "Benny the Butcher, Black Soprano Family & Fuego Base",
     "date": "2026-11-13",
-    "url": "https://music.apple.com/us/album/the-hunger-games-sunrise-on-the-reaping-the-album/6814870921",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/a0/db/dea0db01-b9a7-173e-ccb2-c07c31f634bb/26UM1IM10359.rgb.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Soundtrack"
-    ]
-   },
-   {
-    "id": "6819932396",
-    "title": "GOLDEN HOUR : Part.6 - EP",
-    "artist": "ATEEZ",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/us/album/golden-hour-part-6-ep/6819932396",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/4c/8e/1d4c8e84-ac53-90ed-1dbe-615fdef5b8f1/196874852668.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "K-Pop",
-     "Pop"
-    ]
-   },
-   {
-    "id": "6827340043",
-    "title": "V20 First Semester (Live)",
-    "artist": "Tye Tribbett",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/us/album/v20-first-semester-live/6827340043",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/a0/2e/57a02e93-aa17-086f-8a57-c891f54ce9e4/26SYMIM37588.rgb.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Christian"
-    ]
-   },
-   {
-    "id": "6828547440",
-    "title": "Forever Or Never",
-    "artist": "Jay Montana",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/us/album/forever-or-never/6828547440",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/e7/4c/aae74c0b-42e6-adc1-9419-cb4143308bea/075679548979.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-Hop/Rap"
-    ]
-   },
-   {
-    "id": "6831186026",
-    "title": "Infinite EP",
-    "artist": "Eminem",
-    "date": "2026-11-12",
-    "url": "https://music.apple.com/us/album/infinite-ep/6831186026",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/b2/b4/dcb2b4e7-43f9-53bf-d68e-5656926c6ef3/70114.jpg/300x300bb.jpg",
+    "url": "https://music.apple.com/us/album/a-friend-of-ours-2/6823287348",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/ad/cb/a4adcb64-d3d8-4eec-33b0-85a64cef4e38/885288763201.jpg/300x300bb.jpg",
     "genres": [
      "hiphop"
     ],
@@ -602,20 +600,6 @@
     ],
     "genre_names": [
      "Pop"
-    ]
-   },
-   {
-    "id": "6828178394",
-    "title": "Forever Lasting",
-    "artist": "Babystaydown & Whyceg",
-    "date": "2026-11-11",
-    "url": "https://music.apple.com/us/album/forever-lasting/6828178394",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/40/bc/2a40bc08-84a6-c21a-d1bc-8642c58e86cb/808391413047.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-Hop/Rap"
     ]
    },
    {
@@ -699,20 +683,6 @@
     ]
    },
    {
-    "id": "6831334494",
-    "title": "3two (EP) - Single",
-    "artist": "Ella Mai",
-    "date": "2026-11-06",
-    "url": "https://music.apple.com/us/album/3two-ep-single/6831334494",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/ac/ba/a5acbadb-48d1-4fdb-5647-d620446cc03d/26UM1IM37612.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "rnb"
-    ],
-    "genre_names": [
-     "R&B/Soul"
-    ]
-   },
-   {
     "id": "6827273291",
     "title": "Vol. 5: Vampires & Astronauts (Disc 2)",
     "artist": "Scotty OTH & Lil Poppa",
@@ -741,40 +711,12 @@
     ]
    },
    {
-    "id": "6820234612",
-    "title": "Just Doin Me",
-    "artist": "Young Nudy",
-    "date": "2026-10-28",
-    "url": "https://music.apple.com/us/album/just-doin-me/6820234612",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/56/c2/c256c233-deea-86bc-0e12-3b42b5430a11/075679553119.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-Hop/Rap"
-    ]
-   },
-   {
     "id": "6801692287",
     "title": "Heavy Is The Crown",
     "artist": "Anderson .Paak & Cordae",
     "date": "2026-10-23",
     "url": "https://music.apple.com/us/album/heavy-is-the-crown/6801692287",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/81/23/2b8123af-f191-32ea-e856-fc4ad33599b6/199316732108_cover.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-Hop/Rap"
-    ]
-   },
-   {
-    "id": "6825987374",
-    "title": "Luh Leakyz Vol. 1",
-    "artist": "Yeat & Lyfestyle Corporation",
-    "date": "2026-10-23",
-    "url": "https://music.apple.com/us/album/luh-leakyz-vol-1/6825987374",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/a8/aa/76a8aa34-3e82-73e5-fdd7-1844f35d31b6/26UM1IM37849.rgb.jpg/300x300bb.jpg",
     "genres": [
      "hiphop"
     ],
@@ -849,6 +791,21 @@
     ]
    },
    {
+    "id": "6789739137",
+    "title": "Popstar",
+    "artist": "Tinashe",
+    "date": "2026-09-25",
+    "url": "https://music.apple.com/us/album/popstar/6789739137",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/33/26/5a/33265a39-a36e-9455-716c-0e63a9173b29/075679570758.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "Pop",
+     "Electronic"
+    ]
+   },
+   {
     "id": "6814997249",
     "title": "The Life of a Showgirl: The Encore",
     "artist": "Taylor Swift",
@@ -880,6 +837,20 @@
     ]
    },
    {
+    "id": "6818244685",
+    "title": "WOR$T GIRL IN AMERICA / wor$t man in america",
+    "artist": "Slayyyter",
+    "date": "2026-12-04",
+    "url": "https://music.apple.com/gb/album/wor%24t-girl-in-america-wor%24t-man-in-america/6818244685",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/31/c0/3631c09b-428c-59d9-f2a0-7b93ff0d24a2/196874787007.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "Pop"
+    ]
+   },
+   {
     "id": "6830790898",
     "title": "ENCORE (Extended Version)",
     "artist": "Tokio Hotel",
@@ -895,17 +866,16 @@
     ]
    },
    {
-    "id": "6818244685",
-    "title": "WOR$T GIRL IN AMERICA / wor$t man in america",
-    "artist": "Slayyyter",
+    "id": "6824513570",
+    "title": "WIR",
+    "artist": "Helene Fischer",
     "date": "2026-12-04",
-    "url": "https://music.apple.com/au/album/wor%24t-girl-in-america-wor%24t-man-in-america/6818244685",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/36/31/c0/3631c09b-428c-59d9-f2a0-7b93ff0d24a2/196874787007.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
+    "url": "https://music.apple.com/de/album/wir/6824513570",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a2/06/cb/a206cbe6-dc24-51d8-cee1-595e1404e0c6/26UM1IM36082.rgb.jpg/300x300bb.jpg",
+    "genres": [],
     "genre_names": [
-     "Pop"
+     "Schlager",
+     "Musik"
     ]
    },
    {
@@ -940,7 +910,7 @@
     "title": "Daughter from Hell (Deluxe)",
     "artist": "Gracie Abrams",
     "date": "2026-11-20",
-    "url": "https://music.apple.com/gb/album/daughter-from-hell-deluxe/6827357170",
+    "url": "https://music.apple.com/us/album/daughter-from-hell-deluxe/6827357170",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/10/d4/d3/10d4d3c1-1832-f04c-5883-39fe81ed21fa/26UM1IM32920.rgb.jpg/300x300bb.jpg",
     "genres": [
      "pop"
@@ -948,6 +918,197 @@
     "genre_names": [
      "Pop",
      "Singer/Songwriter"
+    ]
+   },
+   {
+    "id": "6831773090",
+    "title": "SWAGSTER !",
+    "artist": "Lil Tony Official",
+    "date": "2026-11-19",
+    "url": "https://music.apple.com/us/album/swagster/6831773090",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9c/e5/9a/9ce59ad1-1c44-0d33-2263-d87854714842/711209484989.png/300x300bb.jpg",
+    "genres": [
+     "hiphop"
+    ],
+    "genre_names": [
+     "Hip-Hop/Rap"
+    ]
+   },
+   {
+    "id": "6823595951",
+    "title": "JazzDP (feat. The Capital Dance Orchestra)",
+    "artist": "SDP & JazzDP",
+    "date": "2026-11-19",
+    "url": "https://music.apple.com/de/album/jazzdp-feat-the-capital-dance-orchestra/6823595951",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/26/ab/7826abff-b62c-3ed7-7919-4e78aef2381f/26UM1IM32798.rgb.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Jazz",
+     "Musik"
+    ]
+   },
+   {
+    "id": "6836585808",
+    "title": "Anything",
+    "artist": "Phoebe Bridgers",
+    "date": "2026-11-19",
+    "url": "https://music.apple.com/ca/album/anything/6836585808",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c8/3d/63/c83d6377-6c6b-049f-71b3-308580aa3aeb/70447.jpg/300x300bb.jpg",
+    "genres": [
+     "indie"
+    ],
+    "genre_names": [
+     "Alternative"
+    ]
+   },
+   {
+    "id": "6819134538",
+    "title": "Jewelry Basket",
+    "artist": "Travis Japan",
+    "date": "2026-11-18",
+    "url": "https://music.apple.com/jp/album/jewelry-basket/6819134538",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6b/da/d9/6bdad980-a723-2291-d36a-10c56cd30223/26UM1IM15358.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
+    ]
+   },
+   {
+    "id": "6815571780",
+    "title": "AAO - EP",
+    "artist": "JO1",
+    "date": "2026-11-18",
+    "url": "https://music.apple.com/jp/album/aao-ep/6815571780",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/00/c1/b100c19c-54cc-e51d-bcee-911c7d43d737/4582109079263.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
+    ]
+   },
+   {
+    "id": "6831055895",
+    "title": "エンバートーチ/はじまりのさよなら/Umm - EP",
+    "artist": "sumika",
+    "date": "2026-11-18",
+    "url": "https://music.apple.com/jp/album/%E3%82%A8%E3%83%B3%E3%83%90%E3%83%BC%E3%83%88%E3%83%BC%E3%83%81-%E3%81%AF%E3%81%98%E3%81%BE%E3%82%8A%E3%81%AE%E3%81%95%E3%82%88%E3%81%AA%E3%82%89-umm-ep/6831055895",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0a/93/9a/0a939a66-2815-aa1f-fdee-855be8824ab8/4547366867497.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
+    ]
+   },
+   {
+    "id": "6819420333",
+    "title": "Castelos & Ruínas (Remix 10 Anos)",
+    "artist": "BK",
+    "date": "2026-11-17",
+    "url": "https://music.apple.com/br/album/castelos-ru%C3%ADnas-remix-10-anos/6819420333",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/98/b2/5898b21a-85ba-745d-1bfa-8f1682b9c590/823375515142_Cover.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Música",
+     "Música Latina"
+    ]
+   },
+   {
+    "id": "6831053751",
+    "title": "Red Bottom",
+    "artist": "Riggy",
+    "date": "2026-11-17",
+    "url": "https://music.apple.com/kr/album/red-bottom/6831053751",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/12/a1/0f/12a10f2f-a3e2-f1ae-ef90-ae5feb3f05c2/859750380357_cover.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "힙합/랩",
+     "음악"
+    ]
+   },
+   {
+    "id": "6835359463",
+    "title": "VIEWSIC - EP",
+    "artist": "Way Ched & Untell",
+    "date": "2026-11-17",
+    "url": "https://music.apple.com/kr/album/viewsic-ep/6835359463",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/df/1c/03df1cfe-ddaf-31e4-42af-69c831b0cd2b/888272192995_Cover.jpg/300x300bb.jpg",
+    "genres": [
+     "rnb"
+    ],
+    "genre_names": [
+     "R&B/소울",
+     "음악"
+    ]
+   },
+   {
+    "id": "6832754172",
+    "title": "EL DEL MOMENTO",
+    "artist": "Jose Alatorre",
+    "date": "2026-11-17",
+    "url": "https://music.apple.com/mx/album/el-del-momento/6832754172",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/cb/d1/a4cbd1b4-8b19-36af-329f-573a4df3256d/199316738186_cover.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Música latina",
+     "Música"
+    ]
+   },
+   {
+    "id": "6823312075",
+    "title": "Time and Space",
+    "artist": "Olamide",
+    "date": "2026-11-16",
+    "url": "https://music.apple.com/us/album/time-and-space/6823312075",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/b6/c5/11b6c531-93fa-5a3c-0a7c-cb027b090b32/199316822236_cover.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": []
+   },
+   {
+    "id": "6833387063",
+    "title": "PERFECT STORM - EP",
+    "artist": "TOMORROW X TOGETHER",
+    "date": "2026-11-16",
+    "url": "https://music.apple.com/jp/album/perfect-storm-ep/6833387063",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/25/85/6b25852a-ba0e-cd2f-e09c-98dd05f97d9a/26UM1IM45979.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "K-Pop",
+     "ポップ"
+    ]
+   },
+   {
+    "id": "6825761902",
+    "title": "Aurora",
+    "artist": "STARGLOW",
+    "date": "2026-11-16",
+    "url": "https://music.apple.com/jp/album/aurora/6825761902",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/65/e7/9b/65e79b76-5634-3cbb-5563-3f40184f47cf/ANTCD-A0000021490.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
+    ]
+   },
+   {
+    "id": "6815062084",
+    "title": "PERFECT STORM - EP",
+    "artist": "TOMORROW X TOGETHER",
+    "date": "2026-11-16",
+    "url": "https://music.apple.com/de/album/perfect-storm-ep/6815062084",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/8b/7c/a78b7c36-7152-5541-6f0f-5f3182eb7bc1/823375408819_Cover.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "K-Pop",
+     "Musik"
     ]
    },
    {
@@ -998,7 +1159,7 @@
     "artist": "Westside Gunn",
     "date": "2026-11-13",
     "url": "https://music.apple.com/us/album/heelmatic/6825097873",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/08/cf/e008cf0c-ef36-af3c-92cb-64263cf140d7/711641044048.jpg/300x300bb.jpg",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b0/52/57/b0525718-8b45-0dbc-5ca8-fa839ad1707a/711641044048.jpg/300x300bb.jpg",
     "genres": [
      "hiphop"
     ],
@@ -1018,20 +1179,6 @@
     ],
     "genre_names": [
      "R&B/Soul"
-    ]
-   },
-   {
-    "id": "6812412381",
-    "title": "Carnaval De Luz",
-    "artist": "U2",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/us/album/carnaval-de-luz/6812412381",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "rock"
-    ],
-    "genre_names": [
-     "Rock"
     ]
    },
    {
@@ -1063,17 +1210,44 @@
     ]
    },
    {
-    "id": "6823287348",
-    "title": "A Friend of Ours 2",
-    "artist": "Benny the Butcher, Black Soprano Family & Fuego Base",
+    "id": "6812412381",
+    "title": "Carnaval De Luz",
+    "artist": "U2",
     "date": "2026-11-13",
-    "url": "https://music.apple.com/us/album/a-friend-of-ours-2/6823287348",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/ad/cb/a4adcb64-d3d8-4eec-33b0-85a64cef4e38/885288763201.jpg/300x300bb.jpg",
+    "url": "https://music.apple.com/us/album/carnaval-de-luz/6812412381",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/aa/69/22aa69a4-2ab6-c37b-1491-8f0d6423c2a3/26UMGIM93067.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "rock"
+    ],
+    "genre_names": [
+     "Rock"
+    ]
+   },
+   {
+    "id": "6814870921",
+    "title": "The Hunger Games: Sunrise on the Reaping - The Album",
+    "artist": "Various Artists",
+    "date": "2026-11-13",
+    "url": "https://music.apple.com/us/album/the-hunger-games-sunrise-on-the-reaping-the-album/6814870921",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/a0/db/dea0db01-b9a7-173e-ccb2-c07c31f634bb/26UM1IM10359.rgb.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Soundtrack"
+    ]
+   },
+   {
+    "id": "6834088684",
+    "title": "#MonstersUnderMyBed",
+    "artist": "Tay-K",
+    "date": "2026-11-13",
+    "url": "https://music.apple.com/us/album/monstersundermybed/6834088684",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/1a/61/49/1a614972-4c41-8d8c-0bad-9f1be5c1d0ff/612891356908.jpg/300x300bb.jpg",
     "genres": [
      "hiphop"
     ],
     "genre_names": [
-     "Hip-Hop/Rap"
+     "Hip-Hop/Rap",
+     "Electronic"
     ]
    },
    {
@@ -1091,51 +1265,12 @@
     ]
    },
    {
-    "id": "6814870921",
-    "title": "The Hunger Games: Sunrise on the Reaping - The Album",
-    "artist": "Various Artists",
+    "id": "6823287348",
+    "title": "A Friend of Ours 2",
+    "artist": "Benny the Butcher, Black Soprano Family & Fuego Base",
     "date": "2026-11-13",
-    "url": "https://music.apple.com/us/album/the-hunger-games-sunrise-on-the-reaping-the-album/6814870921",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/a0/db/dea0db01-b9a7-173e-ccb2-c07c31f634bb/26UM1IM10359.rgb.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Soundtrack"
-    ]
-   },
-   {
-    "id": "6819932396",
-    "title": "GOLDEN HOUR : Part.6 - EP",
-    "artist": "ATEEZ",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/us/album/golden-hour-part-6-ep/6819932396",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/4c/8e/1d4c8e84-ac53-90ed-1dbe-615fdef5b8f1/196874852668.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "K-Pop",
-     "Pop"
-    ]
-   },
-   {
-    "id": "6827340043",
-    "title": "V20 First Semester (Live)",
-    "artist": "Tye Tribbett",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/us/album/v20-first-semester-live/6827340043",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/57/a0/2e/57a02e93-aa17-086f-8a57-c891f54ce9e4/26SYMIM37588.rgb.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Christian"
-    ]
-   },
-   {
-    "id": "6828547440",
-    "title": "Forever Or Never",
-    "artist": "Jay Montana",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/us/album/forever-or-never/6828547440",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/e7/4c/aae74c0b-42e6-adc1-9419-cb4143308bea/075679548979.jpg/300x300bb.jpg",
+    "url": "https://music.apple.com/us/album/a-friend-of-ours-2/6823287348",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a4/ad/cb/a4adcb64-d3d8-4eec-33b0-85a64cef4e38/885288763201.jpg/300x300bb.jpg",
     "genres": [
      "hiphop"
     ],
@@ -1156,6 +1291,19 @@
     ]
    },
    {
+    "id": "6829077953",
+    "title": "Everybody Loves A Mixtape, Vol. 14: Mashups (DJ Mix)",
+    "artist": "Fatboy Slim",
+    "date": "2026-11-13",
+    "url": "https://music.apple.com/gb/album/everybody-loves-a-mixtape-vol-14-mashups-dj-mix/6829077953",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/0c/a1/e00ca1db-8a6d-a557-c0af-576ea97cab6f/8553dc04-fa78-4c25-b13a-578b9b3e6c2b.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Dance",
+     "Electronic"
+    ]
+   },
+   {
     "id": "6828495564",
     "title": "THE FOURTH QUARTER",
     "artist": "Slim",
@@ -1167,19 +1315,6 @@
     ],
     "genre_names": [
      "Hip-Hop/Rap"
-    ]
-   },
-   {
-    "id": "6829077953",
-    "title": "Everybody Loves A Mixtape, Vol. 14: Mashups (DJ Mix)",
-    "artist": "Fatboy Slim",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/gb/album/everybody-loves-a-mixtape-vol-14-mashups-dj-mix/6829077953",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e0/0c/a1/e00ca1db-8a6d-a557-c0af-576ea97cab6f/8553dc04-fa78-4c25-b13a-578b9b3e6c2b.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Dance",
-     "Electronic"
     ]
    },
    {
@@ -1221,28 +1356,6 @@
     ]
    },
    {
-    "id": "6771065814",
-    "title": "20th Century Paddy - The Songs of Shane MacGowan",
-    "artist": "Shane MacGowan",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/gb/album/20th-century-paddy-the-songs-of-shane-macgowan/6771065814",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a1/bc/11/a1bc118d-48b7-8568-94c8-74faf217f103/8721416643392.png/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Singer/Songwriter"
-    ]
-   },
-   {
-    "id": "6833766775",
-    "title": "BLINK TWICE - EP",
-    "artist": "Sukha",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/gb/album/blink-twice-ep/6833766775",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/a9/f1/f8a9f106-b5d8-2bab-ca09-d452fff24ed0/823375596417_Cover.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": []
-   },
-   {
     "id": "6826099807",
     "title": "GOLDEN HOUR : Part.6 - EP",
     "artist": "ATEEZ",
@@ -1255,6 +1368,19 @@
     "genre_names": [
      "K-Pop",
      "ポップ"
+    ]
+   },
+   {
+    "id": "6817852976",
+    "title": "DIKKE WEIHNACHTEN",
+    "artist": "DIKKA",
+    "date": "2026-11-13",
+    "url": "https://music.apple.com/de/album/dikke-weihnachten/6817852976",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/da/33/75da33c7-d27f-8929-ed6f-9f6bef9ed6c4/26UM1IM28052.rgb.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Musik für Kinder",
+     "Musik"
     ]
    },
    {
@@ -1273,31 +1399,16 @@
     ]
    },
    {
-    "id": "6817852976",
-    "title": "DIKKE WEIHNACHTEN",
-    "artist": "DIKKA",
+    "id": "6830339685",
+    "title": "Fitness: Gym, November 2026 (DJ Mix)",
+    "artist": "Sam Feldt",
     "date": "2026-11-13",
-    "url": "https://music.apple.com/de/album/dikke-weihnachten/6817852976",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/75/da/33/75da33c7-d27f-8929-ed6f-9f6bef9ed6c4/26UM1IM28052.rgb.jpg/300x300bb.jpg",
+    "url": "https://music.apple.com/de/album/fitness-gym-november-2026-dj-mix/6830339685",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3c/82/2a/3c822a71-60d6-d0e3-9142-d8bf098c805e/107530a0-6697-4c9c-ac6f-b605a37cc0ed.png/300x300bb.jpg",
     "genres": [],
     "genre_names": [
-     "Musik für Kinder",
+     "Dance",
      "Musik"
-    ]
-   },
-   {
-    "id": "6833663371",
-    "title": "Luciano – Best of 10 Years",
-    "artist": "Luciano",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/de/album/luciano-best-of-10-years/6833663371",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/83/85/2a/83852a93-0084-9168-8ad1-6dab2c33fda9/26UM1IM46718.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Musik",
-     "Hip-Hop/Rap"
     ]
    },
    {
@@ -1331,6 +1442,21 @@
     ]
    },
    {
+    "id": "6822746321",
+    "title": "La Revanche Des Cafards",
+    "artist": "Jungle Jack & TonyToxik",
+    "date": "2026-11-13",
+    "url": "https://music.apple.com/fr/album/la-revanche-des-cafards/6822746321",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/4f/9b/af4f9bfe-132f-9fd4-defd-34eb8c821474/5400863217808_cover.jpg/300x300bb.jpg",
+    "genres": [
+     "hiphop"
+    ],
+    "genre_names": [
+     "Hip-hop/Rap",
+     "Musique"
+    ]
+   },
+   {
     "id": "6828789899",
     "title": "3ème Mouvement",
     "artist": "H JeuneCrack",
@@ -1361,66 +1487,6 @@
     ]
    },
    {
-    "id": "6822746321",
-    "title": "La Revanche Des Cafards",
-    "artist": "Jungle Jack & TonyToxik",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/fr/album/la-revanche-des-cafards/6822746321",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/af/4f/9b/af4f9bfe-132f-9fd4-defd-34eb8c821474/5400863217808_cover.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-hop/Rap",
-     "Musique"
-    ]
-   },
-   {
-    "id": "6832621510",
-    "title": "VOILA VOL.1 - EP",
-    "artist": "Konieur",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/fr/album/voila-vol-1-ep/6832621510",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/20/8f/6d/208f6daf-1f02-1db4-e02b-8b28178b3555/26UM1IM45692.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-hop/Rap",
-     "Musique"
-    ]
-   },
-   {
-    "id": "6827827152",
-    "title": "KOUL",
-    "artist": "JeanJass",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/fr/album/koul/6827827152",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/77/15/92/771592a6-0d94-bf28-8e4f-32a4835d20ee/859749697220_cover.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-hop/Rap",
-     "Musique"
-    ]
-   },
-   {
-    "id": "6829832725",
-    "title": "Je suis là (Tour)",
-    "artist": "Lara Fabian",
-    "date": "2026-11-13",
-    "url": "https://music.apple.com/fr/album/je-suis-l%C3%A0-tour/6829832725",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/38/79/e0/3879e08b-fde2-796c-1b06-e9a3a8f4f17e/cover.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "Pop",
-     "Musique"
-    ]
-   },
-   {
     "id": "6831544902",
     "title": "The Ship Of Theseus",
     "artist": "Various Artists",
@@ -1436,24 +1502,36 @@
     ]
    },
    {
-    "id": "6833535752",
-    "title": "Timbiriche: Grandes Éxitos",
-    "artist": "Timbiriche",
+    "id": "6819932396",
+    "title": "GOLDEN HOUR : Part.6 - EP",
+    "artist": "에이티즈",
     "date": "2026-11-13",
-    "url": "https://music.apple.com/mx/album/timbiriche-grandes-%C3%A9xitos/6833535752",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d8/1f/46/d81f466f-7c72-4687-0bc6-c34505ae9d2a/26UM1IM46361.rgb.jpg/300x300bb.jpg",
-    "genres": [],
+    "url": "https://music.apple.com/kr/album/golden-hour-part-6-ep/6819932396",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1d/4c/8e/1d4c8e84-ac53-90ed-1dbe-615fdef5b8f1/196874852668.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
     "genre_names": [
-     "Música",
-     "Música latina"
+     "K-Pop",
+     "음악"
     ]
+   },
+   {
+    "id": "6833766775",
+    "title": "BLINK TWICE - EP",
+    "artist": "Sukha",
+    "date": "2026-11-13",
+    "url": "https://music.apple.com/ca/album/blink-twice-ep/6833766775",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/a9/f1/f8a9f106-b5d8-2bab-ca09-d452fff24ed0/823375596417_Cover.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": []
    },
    {
     "id": "6831186026",
     "title": "Infinite EP",
     "artist": "Eminem",
     "date": "2026-11-12",
-    "url": "https://music.apple.com/us/album/infinite-ep/6831186026",
+    "url": "https://music.apple.com/gb/album/infinite-ep/6831186026",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/b2/b4/dcb2b4e7-43f9-53bf-d68e-5656926c6ef3/70114.jpg/300x300bb.jpg",
     "genres": [
      "hiphop"
@@ -1467,43 +1545,55 @@
     "title": "Carnaval De Luz (Deluxe Edition)",
     "artist": "U2",
     "date": "2026-11-12",
-    "url": "https://music.apple.com/gb/album/carnaval-de-luz-deluxe-edition/6833589758",
+    "url": "https://music.apple.com/de/album/carnaval-de-luz-deluxe-edition/6833589758",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/8d/1f/4c/8d1f4cb0-fe24-5bf5-c912-764b62c9f287/26UM1IM19145.rgb.jpg/300x300bb.jpg",
     "genres": [
      "indie"
     ],
     "genre_names": [
-     "Alternative"
-    ]
-   },
-   {
-    "id": "6830945395",
-    "title": "Echo",
-    "artist": "Ecco2k",
-    "date": "2026-11-12",
-    "url": "https://music.apple.com/de/album/echo/6830945395",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e7/30/4f/e7304ff9-cd88-d9a4-20fc-18c6b88467a3/5158.jpg/300x300bb.jpg",
-    "genres": [
-     "indie"
-    ],
-    "genre_names": [
-     "Electronic",
+     "Alternative",
      "Musik"
     ]
    },
    {
-    "id": "6827142862",
-    "title": "ECHT EP",
-    "artist": "KASIMIR1441",
+    "id": "6829049919",
+    "title": "DE VOLTA AO PODIUM",
+    "artist": "L7NNON & HHR",
     "date": "2026-11-12",
-    "url": "https://music.apple.com/de/album/echt-ep/6827142862",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b1/b9/98/b1b998de-781c-6721-2ea3-da0a7e8cc0a5/196874932162.jpg/300x300bb.jpg",
+    "url": "https://music.apple.com/br/album/de-volta-ao-podium/6829049919",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/d2/ef/6ad2ef95-dc88-8423-f0d1-b75803453c49/1200220411177.jpg/300x300bb.jpg",
     "genres": [
      "hiphop"
     ],
     "genre_names": [
      "Hip-Hop/Rap",
-     "Musik"
+     "Música"
+    ]
+   },
+   {
+    "id": "6830260792",
+    "title": "De Volta Aos Bares II - Vol.2 (Ao Vivo)",
+    "artist": "Bruno & Marrone",
+    "date": "2026-11-12",
+    "url": "https://music.apple.com/br/album/de-volta-aos-bares-ii-vol-2-ao-vivo/6830260792",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/19/31/17/193117f1-742e-9141-77bc-7f8cd1175348/711641117148.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Sertanejo",
+     "Música"
+    ]
+   },
+   {
+    "id": "6829026070",
+    "title": "Maiores de 18 (Deluxe)",
+    "artist": "Marcos & Belutti",
+    "date": "2026-11-12",
+    "url": "https://music.apple.com/br/album/maiores-de-18-deluxe/6829026070",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/2b/4c/082b4c4a-672a-b05c-51f4-ee8a0699c877/196874954652.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Sertanejo",
+     "Música"
     ]
    },
    {
@@ -1517,6 +1607,20 @@
     "genre_names": [
      "힙합/랩",
      "음악"
+    ]
+   },
+   {
+    "id": "6827322151",
+    "title": "GTA 7",
+    "artist": "BK",
+    "date": "2026-11-12",
+    "url": "https://music.apple.com/ca/album/gta-7/6827322151",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/aa/11/9c/aa119c92-15d7-e3d5-899c-7f142495e1b1/1200220378562.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "Pop"
     ]
    },
    {
@@ -1534,20 +1638,6 @@
     ]
    },
    {
-    "id": "6828178394",
-    "title": "Forever Lasting",
-    "artist": "Babystaydown & Whyceg",
-    "date": "2026-11-11",
-    "url": "https://music.apple.com/us/album/forever-lasting/6828178394",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2a/40/bc/2a40bc08-84a6-c21a-d1bc-8642c58e86cb/808391413047.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-Hop/Rap"
-    ]
-   },
-   {
     "id": "6827473825",
     "title": "LEGEND",
     "artist": "ちゃんみな",
@@ -1559,6 +1649,19 @@
     ],
     "genre_names": [
      "J-Pop"
+    ]
+   },
+   {
+    "id": "6828748645",
+    "title": "ALÉM DO REGISTRO (Ao Vivo) - EP",
+    "artist": "Luan Santana",
+    "date": "2026-11-11",
+    "url": "https://music.apple.com/br/album/al%C3%A9m-do-registro-ao-vivo-ep/6828748645",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/a8/c9/25a8c932-a1ed-0e14-e011-6766e9a8a533/196874915240.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Sertanejo",
+     "Música"
     ]
    },
    {
@@ -1590,19 +1693,6 @@
     ]
    },
    {
-    "id": "6831706961",
-    "title": "J. S. Bach: Goldberg Variations (Deluxe / Live at Carnegie Hall, New York, 2025)",
-    "artist": "Yunchan Lim",
-    "date": "2026-11-10",
-    "url": "https://music.apple.com/de/album/j-s-bach-goldberg-variations-deluxe-live-at-carnegie/6831706961",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/01/a2/ca01a28c-7fb2-f61b-bf32-52bd44bdd9c7/26UM1IM42800.rgb.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Klassik",
-     "Musik"
-    ]
-   },
-   {
     "id": "6821311332",
     "title": "S.W.I.S.H. - EP",
     "artist": "LNGSHOT",
@@ -1614,6 +1704,19 @@
     ],
     "genre_names": [
      "K-Pop",
+     "음악"
+    ]
+   },
+   {
+    "id": "6831706961",
+    "title": "J. S. Bach: Goldberg Variations (Deluxe / Live at Carnegie Hall, New York, 2025)",
+    "artist": "임윤찬",
+    "date": "2026-11-10",
+    "url": "https://music.apple.com/kr/album/j-s-bach-goldberg-variations-deluxe-live-at-carnegie/6831706961",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ca/01/a2/ca01a28c-7fb2-f61b-bf32-52bd44bdd9c7/26UM1IM42800.rgb.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "클래식",
      "음악"
     ]
    },
@@ -1714,17 +1817,17 @@
     ]
    },
    {
-    "id": "6831334494",
-    "title": "3two (EP) - Single",
-    "artist": "Ella Mai",
+    "id": "6805055407",
+    "title": "Airplane Mode",
+    "artist": "James Blunt",
     "date": "2026-11-06",
-    "url": "https://music.apple.com/us/album/3two-ep-single/6831334494",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a5/ac/ba/a5acbadb-48d1-4fdb-5647-d620446cc03d/26UM1IM37612.rgb.jpg/300x300bb.jpg",
+    "url": "https://music.apple.com/gb/album/airplane-mode/6805055407",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
     "genres": [
-     "rnb"
+     "pop"
     ],
     "genre_names": [
-     "R&B/Soul"
+     "Pop"
     ]
    },
    {
@@ -1742,20 +1845,6 @@
     ]
    },
    {
-    "id": "6805055407",
-    "title": "Airplane Mode",
-    "artist": "James Blunt",
-    "date": "2026-11-06",
-    "url": "https://music.apple.com/gb/album/airplane-mode/6805055407",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/17/8e/2b/178e2b94-8f53-74b8-3642-7ef36502d5f5/1200214944070.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "Pop"
-    ]
-   },
-   {
     "id": "6800026500",
     "title": "Dead Company",
     "artist": "Royal Blood",
@@ -1767,20 +1856,6 @@
     ],
     "genre_names": [
      "Rock"
-    ]
-   },
-   {
-    "id": "6823794712",
-    "title": "FINAL GIRL",
-    "artist": "Dove Cameron",
-    "date": "2026-11-06",
-    "url": "https://music.apple.com/gb/album/final-girl/6823794712",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/31/62/f4316218-f9e8-9839-bd54-64d51ec53c81/196874902370.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "Pop"
     ]
    },
    {
@@ -1799,18 +1874,31 @@
     ]
    },
    {
-    "id": "6809936545",
-    "title": "How's It Goin'",
-    "artist": "Bryan Adams",
+    "id": "6823794712",
+    "title": "FINAL GIRL",
+    "artist": "Dove Cameron",
     "date": "2026-11-06",
-    "url": "https://music.apple.com/de/album/hows-it-goin/6809936545",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/de/9f/f5/de9ff595-ff1c-e4ab-e5ca-09e43f57386c/5059449450919.png/300x300bb.jpg",
+    "url": "https://music.apple.com/de/album/final-girl/6823794712",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f4/31/62/f4316218-f9e8-9839-bd54-64d51ec53c81/196874902370.jpg/300x300bb.jpg",
     "genres": [
      "pop"
     ],
     "genre_names": [
-     "Musik",
-     "Pop"
+     "Pop",
+     "Musik"
+    ]
+   },
+   {
+    "id": "6783688151",
+    "title": "Die 30 besten Kinderlieder 2026",
+    "artist": "Simone Sommerland, Karsten Glück & Die Kita-Frösche",
+    "date": "2026-11-06",
+    "url": "https://music.apple.com/de/album/die-30-besten-kinderlieder-2026/6783688151",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/c6/e3/aec6e33e-3639-387c-b439-3f3a9c6383f0/cover.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Musik für Kinder",
+     "Musik"
     ]
    },
    {
@@ -1855,18 +1943,44 @@
     ]
    },
    {
-    "id": "6827384345",
-    "title": "BLOW UP",
-    "artist": "P1Harmony",
+    "id": "6818422876",
+    "title": "Britney (25th Anniversary Edition)",
+    "artist": "Britney Spears",
     "date": "2026-11-06",
-    "url": "https://music.apple.com/kr/album/blow-up/6827384345",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/cc/e3/1ecce382-cfe6-3883-ef7a-d82b42f0b9f2/8800388626814_cover.jpg/300x300bb.jpg",
+    "url": "https://music.apple.com/br/album/britney-25th-anniversary-edition/6818422876",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/3d/61/0f/3d610fd5-e074-45bb-1f0e-5a9bac6ac74d/196874836071.jpg/300x300bb.jpg",
     "genres": [
      "pop"
     ],
     "genre_names": [
-     "K-Pop",
-     "음악"
+     "Pop",
+     "Música"
+    ]
+   },
+   {
+    "id": "6795185326",
+    "title": "SWALLOW!",
+    "artist": "Shygirl",
+    "date": "2026-11-06",
+    "url": "https://music.apple.com/br/album/swallow/6795185326",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a7/54/77/a75477a8-1f9f-ffd6-37c5-774c1ceb6cfb/5056556184614_cover.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Alternativo",
+     "Música"
+    ]
+   },
+   {
+    "id": "6824680044",
+    "title": "para sempre atormentadas y remixadas",
+    "artist": "Katy da Voz e as abusadas",
+    "date": "2026-11-06",
+    "url": "https://music.apple.com/br/album/para-sempre-atormentadas-y-remixadas/6824680044",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/12/45/91/12459163-3e9c-ce21-5192-c8aa117dbe8f/7900279994952.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Eletrônica",
+     "Música"
     ]
    },
    {
@@ -1900,16 +2014,29 @@
     ]
    },
    {
-    "id": "6828371500",
-    "title": "SLUMPED",
-    "artist": "MATTHEW & Wuuslime (우슬라임)",
+    "id": "6823799186",
+    "title": "No Sentimento em Brasília Vol. 1 (Ao Vivo)",
+    "artist": "Felipe e Rodrigo",
     "date": "2026-11-05",
-    "url": "https://music.apple.com/kr/album/slumped/6828371500",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/97/7c/89977cb8-f80c-dd0b-0e34-5c0035420ca7/711641073437.jpg/300x300bb.jpg",
+    "url": "https://music.apple.com/br/album/no-sentimento-em-bras%C3%ADlia-vol-1-ao-vivo/6823799186",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f0/05/5c/f0055c6d-16b0-f331-058e-703fd7b52590/1200220331840.jpg/300x300bb.jpg",
     "genres": [],
     "genre_names": [
-     "음악",
-     "힙합/랩"
+     "Sertanejo",
+     "Música"
+    ]
+   },
+   {
+    "id": "6826419653",
+    "title": "Diamante, Pt. 1 (Ao Vivo em Belém)",
+    "artist": "Zé Vaqueiro",
+    "date": "2026-11-05",
+    "url": "https://music.apple.com/br/album/diamante-pt-1-ao-vivo-em-bel%C3%A9m/6826419653",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0c/e5/90/0ce590ca-a985-efb6-dcea-8dad706be027/cover.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Forró",
+     "Música"
     ]
    },
    {
@@ -1935,21 +2062,6 @@
     "genres": [],
     "genre_names": [
      "Música latina",
-     "Música"
-    ]
-   },
-   {
-    "id": "6819739587",
-    "title": "7 Vidas",
-    "artist": "Faruz Feet",
-    "date": "2026-11-05",
-    "url": "https://music.apple.com/mx/album/7-vidas/6819739587",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1f/ea/39/1fea39bd-0e34-a544-2c3c-867be8b6ad20/0.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-Hop/Rap",
      "Música"
     ]
    },
@@ -1996,20 +2108,6 @@
     ]
    },
    {
-    "id": "6826993131",
-    "title": "YOASOBI 5th ANNIVERSARY DOME LIVE 2024 “超現実” at TOKYO DOME",
-    "artist": "YOASOBI",
-    "date": "2026-11-04",
-    "url": "https://music.apple.com/jp/album/yoasobi-5th-anniversary-dome-live-2024-%E8%B6%85%E7%8F%BE%E5%AE%9F-at-tokyo-dome/6826993131",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f7/a3/81/f7a381e9-cc40-58c9-02a5-55ffc59aeece/711641100775.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
-    ]
-   },
-   {
     "id": "6829829065",
     "title": "Zombie Life (10 Years Anniversary)",
     "artist": "Hamza",
@@ -2022,6 +2120,21 @@
     "genre_names": [
      "Hip-hop/Rap",
      "Musique"
+    ]
+   },
+   {
+    "id": "6822392116",
+    "title": "Lado Mau",
+    "artist": "Tz da Coronel",
+    "date": "2026-11-04",
+    "url": "https://music.apple.com/br/album/lado-mau/6822392116",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/8e/f2/018ef2b0-e728-3dce-0038-44c781c374f8/885288826746.jpg/300x300bb.jpg",
+    "genres": [
+     "hiphop"
+    ],
+    "genre_names": [
+     "Música",
+     "Hip-Hop/Rap"
     ]
    },
    {
@@ -2063,6 +2176,21 @@
     ],
     "genre_names": [
      "J-Pop"
+    ]
+   },
+   {
+    "id": "6829088987",
+    "title": "ESTILHAÇOS DE UM ANJO REBELDE (COMPLETO)",
+    "artist": "TOKIODK",
+    "date": "2026-11-03",
+    "url": "https://music.apple.com/br/album/estilha%C3%A7os-de-um-anjo-rebelde-completo/6829088987",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/a0/37/2ca037a3-155c-f763-4516-093b1202f55c/1200220411252.jpg/300x300bb.jpg",
+    "genres": [
+     "hiphop"
+    ],
+    "genre_names": [
+     "Hip-Hop/Rap",
+     "Música"
     ]
    },
    {
@@ -2151,20 +2279,6 @@
     ]
    },
    {
-    "id": "6824979873",
-    "title": "Young Nina",
-    "artist": "Nines",
-    "date": "2026-10-30",
-    "url": "https://music.apple.com/gb/album/young-nina/6824979873",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/41/28/ad/4128ada5-f019-73f0-9104-c947c61932c7/26SYMIM36691.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-Hop/Rap"
-    ]
-   },
-   {
     "id": "6824719544",
     "title": "Unreleased Collection - Japan Exclusive",
     "artist": "ONE OK ROCK",
@@ -2179,18 +2293,18 @@
     ]
    },
    {
-    "id": "6803952823",
-    "title": "POV (Personal - Optimist - ...)",
-    "artist": "Nico Santos",
+    "id": "6810726342",
+    "title": "Le Plus Beau",
+    "artist": "TeddyBear",
     "date": "2026-10-30",
-    "url": "https://music.apple.com/de/album/pov-personal-optimist/6803952823",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/99/a5/3e/99a53e9b-da87-643d-3e16-1317ddfbf799/26UM1IM02569.rgb.jpg/300x300bb.jpg",
+    "url": "https://music.apple.com/fr/album/le-plus-beau/6810726342",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/0e/ba/210ebaaa-7be7-8017-2a6a-0596b70675a5/cover.jpg/300x300bb.jpg",
     "genres": [
      "pop"
     ],
     "genre_names": [
      "Pop",
-     "Musik"
+     "Musique"
     ]
    },
    {
@@ -2203,21 +2317,6 @@
     "genres": [],
     "genre_names": [
      "Variété française",
-     "Musique"
-    ]
-   },
-   {
-    "id": "6810726342",
-    "title": "Le Plus Beau",
-    "artist": "TeddyBear",
-    "date": "2026-10-30",
-    "url": "https://music.apple.com/fr/album/le-plus-beau/6810726342",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/21/0e/ba/210ebaaa-7be7-8017-2a6a-0596b70675a5/cover.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "Pop",
      "Musique"
     ]
    },
@@ -2237,21 +2336,6 @@
     ]
    },
    {
-    "id": "6818516305",
-    "title": "Mèsi",
-    "artist": "Railfé",
-    "date": "2026-10-30",
-    "url": "https://music.apple.com/fr/album/m%C3%A8si/6818516305",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/48/27/67/482767b1-0aa5-bb1f-84a6-9feff914b304/859747814285_cover.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-hop/Rap",
-     "Musique"
-    ]
-   },
-   {
     "id": "6826504720",
     "title": "LA POSTAL",
     "artist": "Daddy Yankee",
@@ -2265,17 +2349,16 @@
     ]
    },
    {
-    "id": "6820234612",
-    "title": "Just Doin Me",
-    "artist": "Young Nudy",
-    "date": "2026-10-28",
-    "url": "https://music.apple.com/us/album/just-doin-me/6820234612",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/56/c2/c256c233-deea-86bc-0e12-3b42b5430a11/075679553119.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
+    "id": "6826276665",
+    "title": "Sambas de Enredo Rio Carnaval 2027",
+    "artist": "Vários intérpretes",
+    "date": "2026-10-29",
+    "url": "https://music.apple.com/br/album/sambas-de-enredo-rio-carnaval-2027/6826276665",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/91/64/52/916452b3-8a70-0d6d-a1e8-46ba1b328a17/0.jpg/300x300bb.jpg",
+    "genres": [],
     "genre_names": [
-     "Hip-Hop/Rap"
+     "Samba",
+     "Música"
     ]
    },
    {
@@ -2329,20 +2412,6 @@
     "date": "2026-10-23",
     "url": "https://music.apple.com/us/album/heavy-is-the-crown/6801692287",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2b/81/23/2b8123af-f191-32ea-e856-fc4ad33599b6/199316732108_cover.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-Hop/Rap"
-    ]
-   },
-   {
-    "id": "6825987374",
-    "title": "Luh Leakyz Vol. 1",
-    "artist": "Yeat & Lyfestyle Corporation",
-    "date": "2026-10-23",
-    "url": "https://music.apple.com/us/album/luh-leakyz-vol-1/6825987374",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/a8/aa/76a8aa34-3e82-73e5-fdd7-1844f35d31b6/26UM1IM37849.rgb.jpg/300x300bb.jpg",
     "genres": [
      "hiphop"
     ],
@@ -2421,130 +2490,6 @@
     "genre_names": [
      "Hip-hop/Rap",
      "Musique"
-    ]
-   },
-   {
-    "id": "6818554554",
-    "title": "No Hay Ángeles Aquí",
-    "artist": "Victor Mendivil",
-    "date": "2026-10-22",
-    "url": "https://music.apple.com/mx/album/no-hay-%C3%A1ngeles-aqu%C3%AD/6818554554",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/a6/d8/31/a6d831af-322c-57e3-a470-5acc23dd84c1/1963625067621_cover.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Música latina",
-     "Música"
-    ]
-   },
-   {
-    "id": "6813318544",
-    "title": "最後に熱い日々を狂わしき想いで",
-    "artist": "aiko",
-    "date": "2026-10-21",
-    "url": "https://music.apple.com/jp/album/%E6%9C%80%E5%BE%8C%E3%81%AB%E7%86%B1%E3%81%84%E6%97%A5%E3%80%85%E3%82%92%E7%8B%82%E3%82%8F%E3%81%97%E3%81%8D%E6%83%B3%E3%81%84%E3%81%A7/6813318544",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cc/bb/d2/ccbbd243-dd6f-4913-cb2d-ff86f7377e70/28897.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
-    ]
-   },
-   {
-    "id": "6818123693",
-    "title": "旅する理由を待ちながら",
-    "artist": "GLAY",
-    "date": "2026-10-21",
-    "url": "https://music.apple.com/jp/album/%E6%97%85%E3%81%99%E3%82%8B%E7%90%86%E7%94%B1%E3%82%92%E5%BE%85%E3%81%A1%E3%81%AA%E3%81%8C%E3%82%89/6818123693",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/c5/21/9f/c5219f08-6e30-0b88-ddb4-6db09c26535e/4524135344052.jpg/300x300bb.jpg",
-    "genres": [
-     "rock"
-    ],
-    "genre_names": [
-     "ロック"
-    ]
-   },
-   {
-    "id": "6819162411",
-    "title": "ファーストキス",
-    "artist": "離婚伝説",
-    "date": "2026-10-21",
-    "url": "https://music.apple.com/jp/album/%E3%83%95%E3%82%A1%E3%83%BC%E3%82%B9%E3%83%88%E3%82%AD%E3%82%B9/6819162411",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/5b/6e/27/5b6e279e-14af-0e1c-494a-c02cd5369e65/4547366858730.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
-    ]
-   },
-   {
-    "id": "6822944288",
-    "title": "Young Manhood and Other Donatable Organs",
-    "artist": "Zach Bryan",
-    "date": "2026-10-16",
-    "url": "https://music.apple.com/us/album/young-manhood-and-other-donatable-organs/6822944288",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Country"
-    ]
-   },
-   {
-    "id": "6792085051",
-    "title": "Dopamine Chamber",
-    "artist": "Fontaines D.C.",
-    "date": "2026-10-16",
-    "url": "https://music.apple.com/gb/album/dopamine-chamber/6792085051",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/24/10/8c/24108c9c-845b-40f3-6175-9effb95e1d5c/191404167373.png/300x300bb.jpg",
-    "genres": [
-     "indie"
-    ],
-    "genre_names": [
-     "Alternative"
-    ]
-   },
-   {
-    "id": "6805240956",
-    "title": "The Girl Of Your Dreams",
-    "artist": "Ashe",
-    "date": "2026-10-16",
-    "url": "https://music.apple.com/gb/album/the-girl-of-your-dreams/6805240956",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1b/86/c9/1b86c988-03b8-ca21-10a5-0963d09f5bcf/075679561893.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "Pop"
-    ]
-   },
-   {
-    "id": "6819695629",
-    "title": "SixTONES LIVE TOUR 2026 \"MILESixTONES\"",
-    "artist": "SixTONES",
-    "date": "2026-10-16",
-    "url": "https://music.apple.com/jp/album/sixtones-live-tour-2026-milesixtones/6819695629",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7d/02/63/7d0263cf-8549-6a3d-30cb-0eb2e2c114a8/4547366859164.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
-    ]
-   },
-   {
-    "id": "6820130643",
-    "title": "NUR DAMIT DU WEISST 3",
-    "artist": "reezy",
-    "date": "2026-10-16",
-    "url": "https://music.apple.com/de/album/nur-damit-du-weisst-3/6820130643",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e1/b3/d3/e1b3d30f-bdc9-461f-0627-5e88511a9b36/196874855850.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-Hop/Rap",
-     "Musik"
     ]
    }
   ]
