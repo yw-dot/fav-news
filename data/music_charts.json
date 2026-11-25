@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25 07:54",
+ "updated": "2026-11-26 07:52",
  "regions": {
   "JP": [
    {
@@ -110,21 +110,6 @@
     "rank": 7
    },
    {
-    "id": "1846753946",
-    "title": "好きすぎて滅!",
-    "artist": "M!LK",
-    "date": "2025-10-27",
-    "url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85/1846753945?i=1846753946",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
-    ],
-    "rank": 8
-   },
-   {
     "id": "1739088799",
     "title": "ライラック",
     "artist": "Mrs. GREEN APPLE",
@@ -136,6 +121,21 @@
     ],
     "genre_names": [
      "ロック"
+    ],
+    "rank": 8
+   },
+   {
+    "id": "1846753946",
+    "title": "好きすぎて滅!",
+    "artist": "M!LK",
+    "date": "2025-10-27",
+    "url": "https://music.apple.com/jp/album/%E5%A5%BD%E3%81%8D%E3%81%99%E3%81%8E%E3%81%A6%E6%BB%85/1846753945?i=1846753946",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d4/f9/1b/d4f91bfd-6176-4733-113f-b72f6095d5df/VEATP-44481.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
     ],
     "rank": 9
    },
@@ -200,21 +200,6 @@
     "rank": 13
    },
    {
-    "id": "1808852932",
-    "title": "ブルーアンバー",
-    "artist": "back number",
-    "date": "2025-04-28",
-    "url": "https://music.apple.com/jp/album/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC/1808852878?i=1808852932",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/b9/bc/d5b9bc67-dc87-e451-1ccb-67f3e8b77aa6/25UMGIM41036.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
-    ],
-    "rank": 14
-   },
-   {
     "id": "1892738152",
     "title": "BPM (feat. KREVA)",
     "artist": "Kvi Baba",
@@ -227,6 +212,21 @@
     ],
     "genre_names": [
      "ヒップホップ／ラップ",
+     "J-Pop"
+    ],
+    "rank": 14
+   },
+   {
+    "id": "1808852932",
+    "title": "ブルーアンバー",
+    "artist": "back number",
+    "date": "2025-04-28",
+    "url": "https://music.apple.com/jp/album/%E3%83%96%E3%83%AB%E3%83%BC%E3%82%A2%E3%83%B3%E3%83%90%E3%83%BC/1808852878?i=1808852932",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/d5/b9/bc/d5b9bc67-dc87-e451-1ccb-67f3e8b77aa6/25UMGIM41036.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
      "J-Pop"
     ],
     "rank": 15
@@ -247,21 +247,6 @@
     "rank": 16
    },
    {
-    "id": "1837658529",
-    "title": "IRIS OUT",
-    "artist": "米津玄師",
-    "date": "2025-09-15",
-    "url": "https://music.apple.com/jp/album/iris-out/1837658528?i=1837658529",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f9/f1/e0f9f1f3-a088-b28d-6760-a28accabc705/4547366775181.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
-    ],
-    "rank": 17
-   },
-   {
     "id": "1456063581",
     "title": "HAPPY BIRTHDAY",
     "artist": "back number",
@@ -274,7 +259,7 @@
     "genre_names": [
      "J-Pop"
     ],
-    "rank": 18
+    "rank": 17
    },
    {
     "id": "1451567627",
@@ -283,6 +268,21 @@
     "date": "2015-11-18",
     "url": "https://music.apple.com/jp/album/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%BD%E3%83%B3%E3%82%B0/1451567625?i=1451567627",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/29/ec/e8/29ece87b-ca51-50eb-30a5-6b3efdeb8767/00602577303920.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
+    ],
+    "rank": 18
+   },
+   {
+    "id": "1837658529",
+    "title": "IRIS OUT",
+    "artist": "米津玄師",
+    "date": "2025-09-15",
+    "url": "https://music.apple.com/jp/album/iris-out/1837658528?i=1837658529",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/e0/f9/f1/e0f9f1f3-a088-b28d-6760-a28accabc705/4547366775181.jpg/300x300bb.jpg",
     "genres": [
      "pop"
     ],
@@ -337,6 +337,21 @@
     "rank": 22
    },
    {
+    "id": "6785734870",
+    "title": "マイオンリー",
+    "artist": "SixTONES",
+    "date": "2026-07-12",
+    "url": "https://music.apple.com/jp/album/%E3%83%9E%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC/6785734869?i=6785734870",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/28/43/be284309-bce7-bfc4-a1a8-90a6712b1b8f/4547366834611.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
+    ],
+    "rank": 23
+   },
+   {
     "id": "6799944400",
     "title": "運命さがし",
     "artist": "マカロニえんぴつ",
@@ -350,37 +365,7 @@
      "J-Pop",
      "ポップ"
     ],
-    "rank": 23
-   },
-   {
-    "id": "6785734870",
-    "title": "マイオンリー",
-    "artist": "SixTONES",
-    "date": "2026-07-12",
-    "url": "https://music.apple.com/jp/album/%E3%83%9E%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%AA%E3%83%BC/6785734869?i=6785734870",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/be/28/43/be284309-bce7-bfc4-a1a8-90a6712b1b8f/4547366834611.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
-    ],
     "rank": 24
-   },
-   {
-    "id": "6792630529",
-    "title": "恋、はじめました。",
-    "artist": "=LOVE",
-    "date": "2026-08-04",
-    "url": "https://music.apple.com/jp/album/%E6%81%8B-%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/6792630528?i=6792630529",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/e8/31/4ce831bc-d6ef-bd1d-ecb4-1768b26bffe3/4547366839838.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
-    ],
-    "rank": 25
    },
    {
     "id": "1648865575",
@@ -394,6 +379,21 @@
     ],
     "genre_names": [
      "ロック"
+    ],
+    "rank": 25
+   },
+   {
+    "id": "6792630529",
+    "title": "恋、はじめました。",
+    "artist": "=LOVE",
+    "date": "2026-08-04",
+    "url": "https://music.apple.com/jp/album/%E6%81%8B-%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F/6792630528?i=6792630529",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/4c/e8/31/4ce831bc-d6ef-bd1d-ecb4-1768b26bffe3/4547366839838.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
     ],
     "rank": 26
    },
@@ -443,12 +443,12 @@
     "rank": 29
    },
    {
-    "id": "1648108988",
-    "title": "Subtitle",
-    "artist": "Official髭男dism",
-    "date": "2022-10-12",
-    "url": "https://music.apple.com/jp/album/subtitle/1648108987?i=1648108988",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/53/0c/17/530c1752-6dce-d4bc-98d1-784141b1703e/PCSP_04565_A.jpg/300x300bb.jpg",
+    "id": "1579439168",
+    "title": "水平線",
+    "artist": "back number",
+    "date": "2021-08-13",
+    "url": "https://music.apple.com/jp/album/%E6%B0%B4%E5%B9%B3%E7%B7%9A/1579439167?i=1579439168",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bd/d6/8f/bdd68f1b-8588-3e91-faab-ab9d7ca35c2f/21UMGIM28078.rgb.jpg/300x300bb.jpg",
     "genres": [
      "pop"
     ],
@@ -458,12 +458,12 @@
     "rank": 30
    },
    {
-    "id": "1579439168",
-    "title": "水平線",
-    "artist": "back number",
-    "date": "2021-08-13",
-    "url": "https://music.apple.com/jp/album/%E6%B0%B4%E5%B9%B3%E7%B7%9A/1579439167?i=1579439168",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bd/d6/8f/bdd68f1b-8588-3e91-faab-ab9d7ca35c2f/21UMGIM28078.rgb.jpg/300x300bb.jpg",
+    "id": "1648108988",
+    "title": "Subtitle",
+    "artist": "Official髭男dism",
+    "date": "2022-10-12",
+    "url": "https://music.apple.com/jp/album/subtitle/1648108987?i=1648108988",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/53/0c/17/530c1752-6dce-d4bc-98d1-784141b1703e/PCSP_04565_A.jpg/300x300bb.jpg",
     "genres": [
      "pop"
     ],
@@ -549,6 +549,22 @@
     "rank": 36
    },
    {
+    "id": "913803072",
+    "title": "Love Options",
+    "artist": "BESTie",
+    "date": "2013-10-17",
+    "url": "https://music.apple.com/jp/album/love-options/913802950?i=913803072",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/3d/d6/3f/3dd63f74-ceba-a540-cb38-7de3f26f3628/KM0002907-_-0829.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "K-Pop",
+     "ポップ"
+    ],
+    "rank": 37
+   },
+   {
     "id": "6808173126",
     "title": "シンデレラ",
     "artist": "Mrs. GREEN APPLE",
@@ -561,7 +577,7 @@
     "genre_names": [
      "ロック"
     ],
-    "rank": 37
+    "rank": 38
    },
    {
     "id": "1564752145",
@@ -575,22 +591,6 @@
     ],
     "genre_names": [
      "J-Pop"
-    ],
-    "rank": 38
-   },
-   {
-    "id": "913803072",
-    "title": "Love Options",
-    "artist": "BESTie",
-    "date": "2013-10-17",
-    "url": "https://music.apple.com/jp/album/love-options/913802950?i=913803072",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music4/v4/3d/d6/3f/3dd63f74-ceba-a540-cb38-7de3f26f3628/KM0002907-_-0829.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "K-Pop",
-     "ポップ"
     ],
     "rank": 39
    },
@@ -625,21 +625,6 @@
     "rank": 41
    },
    {
-    "id": "1681600508",
-    "title": "ケセラセラ",
-    "artist": "Mrs. GREEN APPLE",
-    "date": "2023-04-25",
-    "url": "https://music.apple.com/jp/album/%E3%82%B1%E3%82%BB%E3%83%A9%E3%82%BB%E3%83%A9/1681600496?i=1681600508",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/22/db/2522db04-1404-086a-c8a2-253484030b36/23UMGIM37150.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "rock"
-    ],
-    "genre_names": [
-     "ロック"
-    ],
-    "rank": 42
-   },
-   {
     "id": "1803063210",
     "title": "ROSE",
     "artist": "HANA",
@@ -651,6 +636,21 @@
     ],
     "genre_names": [
      "J-Pop"
+    ],
+    "rank": 42
+   },
+   {
+    "id": "1681600508",
+    "title": "ケセラセラ",
+    "artist": "Mrs. GREEN APPLE",
+    "date": "2023-04-25",
+    "url": "https://music.apple.com/jp/album/%E3%82%B1%E3%82%BB%E3%83%A9%E3%82%BB%E3%83%A9/1681600496?i=1681600508",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/22/db/2522db04-1404-086a-c8a2-253484030b36/23UMGIM37150.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "rock"
+    ],
+    "genre_names": [
+     "ロック"
     ],
     "rank": 43
    },
@@ -700,6 +700,21 @@
     "rank": 46
    },
    {
+    "id": "6793888335",
+    "title": "見知らぬ糸",
+    "artist": "スピッツ",
+    "date": "2026-08-07",
+    "url": "https://music.apple.com/jp/album/%E8%A6%8B%E7%9F%A5%E3%82%89%E3%81%AC%E7%B3%B8/6793888333?i=6793888335",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ab/0d/29/ab0d292f-3675-729e-4a8f-eb79a4c88367/26UMGIM87104.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "rock"
+    ],
+    "genre_names": [
+     "ロック"
+    ],
+    "rank": 47
+   },
+   {
     "id": "1408505264",
     "title": "青と夏",
     "artist": "Mrs. GREEN APPLE",
@@ -712,7 +727,22 @@
     "genre_names": [
      "ロック"
     ],
-    "rank": 47
+    "rank": 48
+   },
+   {
+    "id": "6762737233",
+    "title": "アイドルパワー",
+    "artist": "M!LK",
+    "date": "2026-09-07",
+    "url": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%91%E3%83%AF%E3%83%BC/1894988524?i=6762737233",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/23/e2/6323e2fb-271c-5d6b-5db4-a6eeac25ac19/VEATP-45552.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "J-Pop"
+    ],
+    "rank": 49
    },
    {
     "id": "6792947886",
@@ -727,37 +757,6 @@
     "genre_names": [
      "K-Pop",
      "ポップ"
-    ],
-    "rank": 48
-   },
-   {
-    "id": "6819551082",
-    "title": "DEPENDS",
-    "artist": "XG",
-    "date": "2026-11-06",
-    "url": "https://music.apple.com/jp/album/depends/6819551081?i=6819551082",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/84/85/52/84855254-f857-8155-a5c4-8520d313663e/ANTCD-A0000021223.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "ポップ",
-     "ダンス"
-    ],
-    "rank": 49
-   },
-   {
-    "id": "6762737233",
-    "title": "アイドルパワー",
-    "artist": "M!LK",
-    "date": "2026-09-07",
-    "url": "https://music.apple.com/jp/album/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%91%E3%83%AF%E3%83%BC/1894988524?i=6762737233",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/63/23/e2/6323e2fb-271c-5d6b-5db4-a6eeac25ac19/VEATP-45552.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "J-Pop"
     ],
     "rank": 50
    }
@@ -777,19 +776,6 @@
     "rank": 1
    },
    {
-    "id": "6812477290",
-    "title": "Last Thing You Need",
-    "artist": "Morgan Wallen",
-    "date": "2026-09-17",
-    "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Country"
-    ],
-    "rank": 2
-   },
-   {
     "id": "585972803",
     "title": "All I Want for Christmas Is You",
     "artist": "Mariah Carey",
@@ -799,6 +785,19 @@
     "genres": [],
     "genre_names": [
      "Holiday"
+    ],
+    "rank": 2
+   },
+   {
+    "id": "6812477290",
+    "title": "Last Thing You Need",
+    "artist": "Morgan Wallen",
+    "date": "2026-09-17",
+    "url": "https://music.apple.com/us/album/last-thing-you-need/6812476961?i=6812477290",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/5d/d3/1c/5dd31c9c-1e1c-0bbc-104f-4a42e2bb4c59/075679556424.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Country"
     ],
     "rank": 3
    },
@@ -844,21 +843,6 @@
     "rank": 6
    },
    {
-    "id": "6822497774",
-    "title": "Housewife",
-    "artist": "Tate McRae",
-    "date": "2026-10-15",
-    "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "Pop"
-    ],
-    "rank": 7
-   },
-   {
     "id": "6769568596",
     "title": "Janice STFU",
     "artist": "Drake",
@@ -871,7 +855,35 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
+    "rank": 7
+   },
+   {
+    "id": "6822497774",
+    "title": "Housewife",
+    "artist": "Tate McRae",
+    "date": "2026-10-15",
+    "url": "https://music.apple.com/us/album/housewife/6822497770?i=6822497774",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/69/64/e4/6964e483-c02c-e389-14f4-c426e8c65f2c/196874840146.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
+    ],
+    "genre_names": [
+     "Pop"
+    ],
     "rank": 8
+   },
+   {
+    "id": "720861445",
+    "title": "Underneath the Tree",
+    "artist": "Kelly Clarkson",
+    "date": "2013-10-25",
+    "url": "https://music.apple.com/us/album/underneath-the-tree/720861443?i=720861445",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ee/40/2d/ee402d50-4a55-bcbe-b71c-6690784d4d37/886444201209.jpg/100x99bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Holiday"
+    ],
+    "rank": 9
    },
    {
     "id": "1648587330",
@@ -886,20 +898,20 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
-    "rank": 9
+    "rank": 10
    },
    {
-    "id": "720861445",
-    "title": "Underneath the Tree",
-    "artist": "Kelly Clarkson",
-    "date": "2013-10-25",
-    "url": "https://music.apple.com/us/album/underneath-the-tree/720861443?i=720861445",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/ee/40/2d/ee402d50-4a55-bcbe-b71c-6690784d4d37/886444201209.jpg/100x99bb.jpg",
+    "id": "1358462132",
+    "title": "Jingle Bell Rock",
+    "artist": "Bobby Helms",
+    "date": "1957-12-02",
+    "url": "https://music.apple.com/us/album/jingle-bell-rock/1358462130?i=1358462132",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/300x300bb.jpg",
     "genres": [],
     "genre_names": [
      "Holiday"
     ],
-    "rank": 10
+    "rank": 11
    },
    {
     "id": "1440929293",
@@ -914,35 +926,7 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
-    "rank": 11
-   },
-   {
-    "id": "1358462132",
-    "title": "Jingle Bell Rock",
-    "artist": "Bobby Helms",
-    "date": "1957-12-02",
-    "url": "https://music.apple.com/us/album/jingle-bell-rock/1358462130?i=1358462132",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/e8/18/6b/e8186bf9-5696-e721-b273-a5f173caf8c1/18UMGIM07062.rgb.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Holiday"
-    ],
     "rank": 12
-   },
-   {
-    "id": "6795697687",
-    "title": "Stop The Wedding!",
-    "artist": "Ashe",
-    "date": "2026-08-07",
-    "url": "https://music.apple.com/us/album/stop-the-wedding/6795697684?i=6795697687",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
-    "genres": [
-     "pop"
-    ],
-    "genre_names": [
-     "Pop"
-    ],
-    "rank": 13
    },
    {
     "id": "1889992115",
@@ -957,7 +941,7 @@
     "genre_names": [
      "Pop"
     ],
-    "rank": 14
+    "rank": 13
    },
    {
     "id": "1621119447",
@@ -972,20 +956,22 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
-    "rank": 15
+    "rank": 14
    },
    {
-    "id": "6822944296",
-    "title": "Lies (feat. Lana Del Rey)",
-    "artist": "Zach Bryan & Lana Del Rey",
-    "date": "2026-10-15",
-    "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Country"
+    "id": "6795697687",
+    "title": "Stop The Wedding!",
+    "artist": "Ashe",
+    "date": "2026-08-07",
+    "url": "https://music.apple.com/us/album/stop-the-wedding/6795697684?i=6795697687",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b7/55/7a/b7557aef-bb0a-cc57-25bf-979eee194f16/075679571403.jpg/300x300bb.jpg",
+    "genres": [
+     "pop"
     ],
-    "rank": 16
+    "genre_names": [
+     "Pop"
+    ],
+    "rank": 15
    },
    {
     "id": "1889992123",
@@ -1000,35 +986,22 @@
     "genre_names": [
      "Pop"
     ],
-    "rank": 17
+    "rank": 16
    },
    {
-    "id": "6818209989",
-    "title": "Solar Eclipse",
-    "artist": "Drake & Don Toliver",
-    "date": "2026-10-02",
-    "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/300x300bb.jpg",
+    "id": "1452017954",
+    "title": "Best I Ever Had",
+    "artist": "Drake",
+    "date": "2009-02-13",
+    "url": "https://music.apple.com/us/album/best-i-ever-had/1452017773?i=1452017954",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/b0/35/7eb0353b-8f25-32dd-5f5e-71d9ed700247/00602577524004.rgb.jpg/300x300bb.jpg",
     "genres": [
-     "rnb"
+     "hiphop"
     ],
     "genre_names": [
-     "R&B/Soul"
+     "Hip-Hop/Rap"
     ],
-    "rank": 18
-   },
-   {
-    "id": "1869436845",
-    "title": "Be Her",
-    "artist": "Ella Langley",
-    "date": "2026-02-13",
-    "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Country"
-    ],
-    "rank": 19
+    "rank": 17
    },
    {
     "id": "1621803969",
@@ -1043,20 +1016,46 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
+    "rank": 18
+   },
+   {
+    "id": "6822944296",
+    "title": "Lies (feat. Lana Del Rey)",
+    "artist": "Zach Bryan & Lana Del Rey",
+    "date": "2026-10-15",
+    "url": "https://music.apple.com/us/album/lies-feat-lana-del-rey/6822944288?i=6822944296",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ea/98/f2/ea98f2b8-5131-29ae-2064-997234ef13bc/093624812647.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Country"
+    ],
+    "rank": 19
+   },
+   {
+    "id": "1869436845",
+    "title": "Be Her",
+    "artist": "Ella Langley",
+    "date": "2026-02-13",
+    "url": "https://music.apple.com/us/album/be-her/1869436835?i=1869436845",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a1/ba/64/a1ba6484-f462-1b88-ddff-d4c014d5f265/196874018361.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Country"
+    ],
     "rank": 20
    },
    {
-    "id": "1452017954",
-    "title": "Best I Ever Had",
-    "artist": "Drake",
-    "date": "2009-02-13",
-    "url": "https://music.apple.com/us/album/best-i-ever-had/1452017773?i=1452017954",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/7e/b0/35/7eb0353b-8f25-32dd-5f5e-71d9ed700247/00602577524004.rgb.jpg/300x300bb.jpg",
+    "id": "6818209989",
+    "title": "Solar Eclipse",
+    "artist": "Drake & Don Toliver",
+    "date": "2026-10-02",
+    "url": "https://music.apple.com/us/album/solar-eclipse/6818209777?i=6818209989",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/300x300bb.jpg",
     "genres": [
-     "hiphop"
+     "rnb"
     ],
     "genre_names": [
-     "Hip-Hop/Rap"
+     "R&B/Soul"
     ],
     "rank": 21
    },
@@ -1089,21 +1088,6 @@
     "rank": 23
    },
    {
-    "id": "1621207921",
-    "title": "Frozen",
-    "artist": "Lil Baby",
-    "date": "2022-04-29",
-    "url": "https://music.apple.com/us/album/frozen/1621207919?i=1621207921",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/5c/d2/4c5cd2e1-2244-2527-3ea3-2003ee734428/22UMGIM45519.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-Hop/Rap"
-    ],
-    "rank": 24
-   },
-   {
     "id": "6790569133",
     "title": "Dead Fresh",
     "artist": "Lil Baby",
@@ -1116,20 +1100,22 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
-    "rank": 25
+    "rank": 24
    },
    {
-    "id": "1802103970",
-    "title": "I'm The Problem",
-    "artist": "Morgan Wallen",
-    "date": "2025-01-31",
-    "url": "https://music.apple.com/us/album/im-the-problem/1802103958?i=1802103970",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Country"
+    "id": "1621207921",
+    "title": "Frozen",
+    "artist": "Lil Baby",
+    "date": "2022-04-29",
+    "url": "https://music.apple.com/us/album/frozen/1621207919?i=1621207921",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4c/5c/d2/4c5cd2e1-2244-2527-3ea3-2003ee734428/22UMGIM45519.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "hiphop"
     ],
-    "rank": 26
+    "genre_names": [
+     "Hip-Hop/Rap"
+    ],
+    "rank": 25
    },
    {
     "id": "1506297772",
@@ -1144,7 +1130,7 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
-    "rank": 27
+    "rank": 26
    },
    {
     "id": "1440642743",
@@ -1159,20 +1145,33 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
+    "rank": 27
+   },
+   {
+    "id": "1556670532",
+    "title": "Wants and Needs (feat. Lil Baby)",
+    "artist": "Drake",
+    "date": "2021-03-05",
+    "url": "https://music.apple.com/us/album/wants-and-needs-feat-lil-baby/1556669854?i=1556670532",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/2a/34/632a3488-d104-3ff1-dc02-4ed86f58ed05/21UMGIM18577.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "hiphop"
+    ],
+    "genre_names": [
+     "Hip-Hop/Rap"
+    ],
     "rank": 28
    },
    {
-    "id": "1714908987",
-    "title": "Wicked Games",
-    "artist": "The Weeknd",
-    "date": "2011-03-21",
-    "url": "https://music.apple.com/us/album/wicked-games/1714908584?i=1714908987",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/d5/13/66d513dd-3cb0-b86b-4d11-1fbab2e6a639/12UMGIM54989.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "rnb"
-    ],
+    "id": "1802103970",
+    "title": "I'm The Problem",
+    "artist": "Morgan Wallen",
+    "date": "2025-01-31",
+    "url": "https://music.apple.com/us/album/im-the-problem/1802103958?i=1802103970",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/300x300bb.jpg",
+    "genres": [],
     "genre_names": [
-     "R&B/Soul"
+     "Country"
     ],
     "rank": 29
    },
@@ -1192,60 +1191,20 @@
     "rank": 30
    },
    {
-    "id": "1556670532",
-    "title": "Wants and Needs (feat. Lil Baby)",
-    "artist": "Drake",
-    "date": "2021-03-05",
-    "url": "https://music.apple.com/us/album/wants-and-needs-feat-lil-baby/1556669854?i=1556670532",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/63/2a/34/632a3488-d104-3ff1-dc02-4ed86f58ed05/21UMGIM18577.rgb.jpg/300x300bb.jpg",
+    "id": "336037282",
+    "title": "Sleigh Ride",
+    "artist": "The Ronettes",
+    "date": "1963-11-22",
+    "url": "https://music.apple.com/us/album/sleigh-ride/336036941?i=336037282",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/100x99bb.jpg",
     "genres": [
-     "hiphop"
+     "pop"
     ],
     "genre_names": [
-     "Hip-Hop/Rap"
+     "Holiday",
+     "Pop"
     ],
     "rank": 31
-   },
-   {
-    "id": "1818424212",
-    "title": "Last Night",
-    "artist": "Morgan Wallen",
-    "date": "2023-02-02",
-    "url": "https://music.apple.com/us/album/last-night/1818423949?i=1818424212",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/eb/b3/82ebb3c6-2bd4-31fd-0eb9-57667f3590e1/00602455239419_Cover.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Country"
-    ],
-    "rank": 32
-   },
-   {
-    "id": "1438765134",
-    "title": "Girls Need Love",
-    "artist": "Summer Walker",
-    "date": "2018-07-26",
-    "url": "https://music.apple.com/us/album/girls-need-love/1438765128?i=1438765134",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/1e/1a/7c1e1a21-013c-f31d-dc2c-c8118439641d/18UMGIM66021.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "rnb"
-    ],
-    "genre_names": [
-     "R&B/Soul"
-    ],
-    "rank": 33
-   },
-   {
-    "id": "1802104400",
-    "title": "Don't We",
-    "artist": "Morgan Wallen",
-    "date": "2025-05-16",
-    "url": "https://music.apple.com/us/album/dont-we/1802103958?i=1802104400",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Country"
-    ],
-    "rank": 34
    },
    {
     "id": "1530123009",
@@ -1260,7 +1219,22 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
-    "rank": 35
+    "rank": 32
+   },
+   {
+    "id": "1584281787",
+    "title": "Knife Talk (feat. 21 Savage & Project Pat)",
+    "artist": "Drake",
+    "date": "2021-09-03",
+    "url": "https://music.apple.com/us/album/knife-talk-feat-21-savage-project-pat/1584281467?i=1584281787",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "hiphop"
+    ],
+    "genre_names": [
+     "Hip-Hop/Rap"
+    ],
+    "rank": 33
    },
    {
     "id": "1534816484",
@@ -1275,23 +1249,22 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
-    "rank": 36
+    "rank": 34
    },
    {
-    "id": "336037282",
-    "title": "Sleigh Ride",
-    "artist": "The Ronettes",
-    "date": "1963-11-22",
-    "url": "https://music.apple.com/us/album/sleigh-ride/336036941?i=336037282",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/2e/92/5f/2e925fa4-6a4e-a15e-7cfc-bb3f13f053e1/mzi.ermvbetx.jpg/100x99bb.jpg",
+    "id": "6834596541",
+    "title": "I just realized. (feat. Future)",
+    "artist": "YFN Lucci & Rod Wave",
+    "date": "2026-11-19",
+    "url": "https://music.apple.com/us/album/i-just-realized-feat-future/6834596383?i=6834596541",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/79/03/037903d0-d385-3dfb-e867-e10abf280f78/075679546210.jpg/300x300bb.jpg",
     "genres": [
-     "pop"
+     "hiphop"
     ],
     "genre_names": [
-     "Holiday",
-     "Pop"
+     "Hip-Hop/Rap"
     ],
-    "rank": 37
+    "rank": 35
    },
    {
     "id": "1529510489",
@@ -1306,15 +1279,41 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
+    "rank": 36
+   },
+   {
+    "id": "1802104400",
+    "title": "Don't We",
+    "artist": "Morgan Wallen",
+    "date": "2025-05-16",
+    "url": "https://music.apple.com/us/album/dont-we/1802103958?i=1802104400",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Country"
+    ],
+    "rank": 37
+   },
+   {
+    "id": "1818424212",
+    "title": "Last Night",
+    "artist": "Morgan Wallen",
+    "date": "2023-02-02",
+    "url": "https://music.apple.com/us/album/last-night/1818423949?i=1818424212",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/82/eb/b3/82ebb3c6-2bd4-31fd-0eb9-57667f3590e1/00602455239419_Cover.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Country"
+    ],
     "rank": 38
    },
    {
-    "id": "1657869492",
-    "title": "Snooze",
-    "artist": "SZA",
-    "date": "2022-12-08",
-    "url": "https://music.apple.com/us/album/snooze/1657869377?i=1657869492",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/300x300bb.jpg",
+    "id": "1438765134",
+    "title": "Girls Need Love",
+    "artist": "Summer Walker",
+    "date": "2018-07-26",
+    "url": "https://music.apple.com/us/album/girls-need-love/1438765128?i=1438765134",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/7c/1e/1a/7c1e1a21-013c-f31d-dc2c-c8118439641d/18UMGIM66021.rgb.jpg/300x300bb.jpg",
     "genres": [
      "rnb"
     ],
@@ -1322,19 +1321,6 @@
      "R&B/Soul"
     ],
     "rank": 39
-   },
-   {
-    "id": "1813021660",
-    "title": "Broken Window Serenade",
-    "artist": "Whiskey Myers",
-    "date": "2011-04-26",
-    "url": "https://music.apple.com/us/album/broken-window-serenade/1813021356?i=1813021660",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/cf/22/d0cf226c-607d-d97c-61d4-26eabde51f1d/886443002371_Cover.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Country"
-    ],
-    "rank": 40
    },
    {
     "id": "1017055092",
@@ -1349,7 +1335,7 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
-    "rank": 41
+    "rank": 40
    },
    {
     "id": "1884403093",
@@ -1365,7 +1351,35 @@
      "Country",
      "Pop"
     ],
+    "rank": 41
+   },
+   {
+    "id": "1657869492",
+    "title": "Snooze",
+    "artist": "SZA",
+    "date": "2022-12-08",
+    "url": "https://music.apple.com/us/album/snooze/1657869377?i=1657869492",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/bd/3b/a9/bd3ba9fb-9609-144f-bcfe-ead67b5f6ab3/196589564931.jpg/300x300bb.jpg",
+    "genres": [
+     "rnb"
+    ],
+    "genre_names": [
+     "R&B/Soul"
+    ],
     "rank": 42
+   },
+   {
+    "id": "1813021660",
+    "title": "Broken Window Serenade",
+    "artist": "Whiskey Myers",
+    "date": "2011-04-26",
+    "url": "https://music.apple.com/us/album/broken-window-serenade/1813021356?i=1813021660",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/cf/22/d0cf226c-607d-d97c-61d4-26eabde51f1d/886443002371_Cover.jpg/300x300bb.jpg",
+    "genres": [],
+    "genre_names": [
+     "Country"
+    ],
+    "rank": 43
    },
    {
     "id": "1618153473",
@@ -1380,35 +1394,7 @@
     "genre_names": [
      "Hip-Hop/Rap"
     ],
-    "rank": 43
-   },
-   {
-    "id": "1802103977",
-    "title": "Just In Case",
-    "artist": "Morgan Wallen",
-    "date": "2025-03-21",
-    "url": "https://music.apple.com/us/album/just-in-case/1802103958?i=1802103977",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/300x300bb.jpg",
-    "genres": [],
-    "genre_names": [
-     "Country"
-    ],
     "rank": 44
-   },
-   {
-    "id": "6834596541",
-    "title": "I just realized. (feat. Future)",
-    "artist": "YFN Lucci & Rod Wave",
-    "date": "2026-11-19",
-    "url": "https://music.apple.com/us/album/i-just-realized-feat-future/6834596383?i=6834596541",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/03/79/03/037903d0-d385-3dfb-e867-e10abf280f78/075679546210.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-Hop/Rap"
-    ],
-    "rank": 45
    },
    {
     "id": "6810716062",
@@ -1423,62 +1409,79 @@
     "genre_names": [
      "R&B/Soul"
     ],
-    "rank": 46
+    "rank": 45
    },
    {
-    "id": "1584281787",
-    "title": "Knife Talk (feat. 21 Savage & Project Pat)",
-    "artist": "Drake",
-    "date": "2021-09-03",
-    "url": "https://music.apple.com/us/album/knife-talk-feat-21-savage-project-pat/1584281467?i=1584281787",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/300x300bb.jpg",
-    "genres": [
-     "hiphop"
-    ],
-    "genre_names": [
-     "Hip-Hop/Rap"
-    ],
-    "rank": 47
-   },
-   {
-    "id": "1818469738",
-    "title": "Wasted On You",
+    "id": "1802103977",
+    "title": "Just In Case",
     "artist": "Morgan Wallen",
-    "date": "2021-01-08",
-    "url": "https://music.apple.com/us/album/wasted-on-you/1818469543?i=1818469738",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/68/05/ab/6805abb2-10d1-35cb-aa84-71386b285b7d/00602435514642_Cover.jpg/300x300bb.jpg",
+    "date": "2025-03-21",
+    "url": "https://music.apple.com/us/album/just-in-case/1802103958?i=1802103977",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/1e/ef/26/1eef2600-29f4-5423-3052-26874afd2947/25UMGIM46050.rgb.jpg/300x300bb.jpg",
     "genres": [],
     "genre_names": [
      "Country"
     ],
-    "rank": 48
+    "rank": 46
    },
    {
-    "id": "6818209990",
-    "title": "Quebec",
-    "artist": "Drake",
-    "date": "2026-10-02",
-    "url": "https://music.apple.com/us/album/quebec/6818209777?i=6818209990",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/bb/45/62/bb4562a3-45a2-539c-b557-a18ea060a476/26UMGIM63616.rgb.jpg/300x300bb.jpg",
+    "id": "1714908987",
+    "title": "Wicked Games",
+    "artist": "The Weeknd",
+    "date": "2011-03-21",
+    "url": "https://music.apple.com/us/album/wicked-games/1714908584?i=1714908987",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/66/d5/13/66d513dd-3cb0-b86b-4d11-1fbab2e6a639/12UMGIM54989.rgb.jpg/300x300bb.jpg",
     "genres": [
      "rnb"
     ],
     "genre_names": [
      "R&B/Soul"
     ],
+    "rank": 47
+   },
+   {
+    "id": "6762757738",
+    "title": "Willing and Able",
+    "artist": "Noah Kahan",
+    "date": "2026-04-24",
+    "url": "https://music.apple.com/us/album/willing-and-able/1894997820?i=6762757738",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/f9/aa/69/f9aa6992-40ca-a756-85ca-b27c48f7c720/26UMGIM02802.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "indie"
+    ],
+    "genre_names": [
+     "Alternative"
+    ],
+    "rank": 48
+   },
+   {
+    "id": "1468618077",
+    "title": "Money In The Grave (feat. Rick Ross)",
+    "artist": "Drake",
+    "date": "2019-06-15",
+    "url": "https://music.apple.com/us/album/money-in-the-grave-feat-rick-ross/1468617896?i=1468618077",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5b/31/bf/5b31bf6d-0a7f-ad73-426f-72948846bef2/19UMGIM54644.rgb.jpg/300x300bb.jpg",
+    "genres": [
+     "hiphop"
+    ],
+    "genre_names": [
+     "Hip-Hop/Rap"
+    ],
     "rank": 49
    },
    {
-    "id": "1560735548",
-    "title": "deja vu",
-    "artist": "Olivia Rodrigo",
-    "date": "2021-04-01",
-    "url": "https://music.apple.com/us/album/deja-vu/1560735414?i=1560735548",
-    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/33/fd/32/33fd32b1-0e43-9b4a-8ed6-19643f23544e/21UMGIM26092.rgb.jpg/300x300bb.jpg",
+    "id": "202117984",
+    "title": "Last Christmas (Single Version)",
+    "artist": "Wham!",
+    "date": "1984-12-01",
+    "url": "https://music.apple.com/us/album/last-christmas-single-version/202117886?i=202117984",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/eb/4a/f9/eb4af984-fc68-56ab-7b89-1d070c04e1dd/5099765318524.jpg/300x300bb.jpg",
     "genres": [
+     "indie",
      "pop"
     ],
     "genre_names": [
+     "Holiday",
      "Pop"
     ],
     "rank": 50
@@ -1495,14 +1498,6 @@
    },
    {
     "rank": 2,
-    "title": "Boston",
-    "artist": "STELLA LEFTY",
-    "url": "https://www.deezer.com/track/3895241341",
-    "image": "https://cdn-images.dzcdn.net/images/cover/66d6baca9df5092af22a710ce10d39cf/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 3,
     "title": "Choosin' Texas",
     "artist": "Ella Langley",
     "url": "https://www.deezer.com/track/3602074142",
@@ -1510,15 +1505,15 @@
     "genre_names": []
    },
    {
-    "rank": 4,
-    "title": "Should I Stay or Should I Go (Remastered)",
-    "artist": "The Clash",
-    "url": "https://www.deezer.com/track/69505566",
-    "image": "https://cdn-images.dzcdn.net/images/cover/feca97420dd6f5679e7cae61d6d22438/250x250-000000-80-0-0.jpg",
+    "rank": 3,
+    "title": "Boston",
+    "artist": "STELLA LEFTY",
+    "url": "https://www.deezer.com/track/3895241341",
+    "image": "https://cdn-images.dzcdn.net/images/cover/66d6baca9df5092af22a710ce10d39cf/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
-    "rank": 5,
+    "rank": 4,
     "title": "BbY WOW",
     "artist": "KAROL G",
     "url": "https://www.deezer.com/track/4208859922",
@@ -1526,15 +1521,15 @@
     "genre_names": []
    },
    {
-    "rank": 6,
-    "title": "Housewife",
-    "artist": "Tate McRae",
-    "url": "https://www.deezer.com/track/4350411742",
-    "image": "https://cdn-images.dzcdn.net/images/cover/0717657c0f9540946fb9813d3383a500/250x250-000000-80-0-0.jpg",
+    "rank": 5,
+    "title": "Should I Stay or Should I Go (Remastered)",
+    "artist": "The Clash",
+    "url": "https://www.deezer.com/track/69505566",
+    "image": "https://cdn-images.dzcdn.net/images/cover/feca97420dd6f5679e7cae61d6d22438/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
-    "rank": 7,
+    "rank": 6,
     "title": "Nicole Kidman",
     "artist": "ADÉLA",
     "url": "https://www.deezer.com/track/4250696681",
@@ -1542,19 +1537,27 @@
     "genre_names": []
    },
    {
+    "rank": 7,
+    "title": "Housewife",
+    "artist": "Tate McRae",
+    "url": "https://www.deezer.com/track/4350411742",
+    "image": "https://cdn-images.dzcdn.net/images/cover/0717657c0f9540946fb9813d3383a500/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
     "rank": 8,
-    "title": "hate that i made you love me",
-    "artist": "Ariana Grande",
-    "url": "https://www.deezer.com/track/4045817471",
-    "image": "https://cdn-images.dzcdn.net/images/cover/020b1804e8c8a2aba6770f5b2763847b/250x250-000000-80-0-0.jpg",
+    "title": "Loving Life Again",
+    "artist": "Ella Langley",
+    "url": "https://www.deezer.com/track/3904211281",
+    "image": "https://cdn-images.dzcdn.net/images/cover/b1bde069e57968a190b0506aef2b6e3e/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
     "rank": 9,
-    "title": "Better Me For You (Brown Eyes)",
-    "artist": "Max McNown",
-    "url": "https://www.deezer.com/track/3092229871",
-    "image": "https://cdn-images.dzcdn.net/images/cover/29fc365a0889643be90cc8036861ba52/250x250-000000-80-0-0.jpg",
+    "title": "Be By You",
+    "artist": "Luke Combs",
+    "url": "https://www.deezer.com/track/3838327301",
+    "image": "https://cdn-images.dzcdn.net/images/cover/644133900f1391ee0a7e8f84c6572e3a/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
@@ -1575,10 +1578,10 @@
    },
    {
     "rank": 12,
-    "title": "Loving Life Again",
-    "artist": "Ella Langley",
-    "url": "https://www.deezer.com/track/3904211281",
-    "image": "https://cdn-images.dzcdn.net/images/cover/b1bde069e57968a190b0506aef2b6e3e/250x250-000000-80-0-0.jpg",
+    "title": "hate that i made you love me",
+    "artist": "Ariana Grande",
+    "url": "https://www.deezer.com/track/4045817471",
+    "image": "https://cdn-images.dzcdn.net/images/cover/020b1804e8c8a2aba6770f5b2763847b/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
@@ -1591,22 +1594,14 @@
    },
    {
     "rank": 14,
-    "title": "Be By You",
-    "artist": "Luke Combs",
-    "url": "https://www.deezer.com/track/3838327301",
-    "image": "https://cdn-images.dzcdn.net/images/cover/644133900f1391ee0a7e8f84c6572e3a/250x250-000000-80-0-0.jpg",
+    "title": "Better Me For You (Brown Eyes)",
+    "artist": "Max McNown",
+    "url": "https://www.deezer.com/track/3092229871",
+    "image": "https://cdn-images.dzcdn.net/images/cover/29fc365a0889643be90cc8036861ba52/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
     "rank": 15,
-    "title": "Dai Dai",
-    "artist": "Shakira",
-    "url": "https://www.deezer.com/track/4015341011",
-    "image": "https://cdn-images.dzcdn.net/images/cover/a7f9bae0243c512059298a68d09f45a1/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 16,
     "title": "expectations",
     "artist": "Olivia Rodrigo",
     "url": "https://www.deezer.com/track/4348981142",
@@ -1614,31 +1609,7 @@
     "genre_names": []
    },
    {
-    "rank": 17,
-    "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
-    "artist": "Taylor Swift",
-    "url": "https://www.deezer.com/track/4058916481",
-    "image": "https://cdn-images.dzcdn.net/images/cover/3524f60445caca0b06a75c30f1e9817c/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 18,
-    "title": "Mexico Honey",
-    "artist": "Kacey Musgraves",
-    "url": "https://www.deezer.com/track/3991431871",
-    "image": "https://cdn-images.dzcdn.net/images/cover/97eafa46695c2708becd77df73766e7c/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 19,
-    "title": "Here Then We're Gone",
-    "artist": "Ella Langley",
-    "url": "https://www.deezer.com/track/4394711701",
-    "image": "https://cdn-images.dzcdn.net/images/cover/ac276a8bb3f6e7045b3579258499b8bb/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 20,
+    "rank": 16,
     "title": "Dancing In the Dark",
     "artist": "Bruce Springsteen",
     "url": "https://www.deezer.com/track/15586246",
@@ -1646,15 +1617,55 @@
     "genre_names": []
    },
    {
+    "rank": 17,
+    "title": "My Only Wish (This Year)",
+    "artist": "Britney Spears",
+    "url": "https://www.deezer.com/track/1122164292",
+    "image": "https://cdn-images.dzcdn.net/images/cover/947cd0164fc3b1d6e78aaa6bd47c6bac/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 18,
+    "title": "Kid Myself",
+    "artist": "John Morgan",
+    "url": "https://www.deezer.com/track/3697436932",
+    "image": "https://cdn-images.dzcdn.net/images/cover/d86f9db9d0d128de55171015517dfd9c/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 19,
+    "title": "Another Drink",
+    "artist": "Marshmello",
+    "url": "https://www.deezer.com/track/4098248331",
+    "image": "https://cdn-images.dzcdn.net/images/cover/d4575025d97dd15fe46e6a77766961ff/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 20,
+    "title": "Christmas Time Is Here",
+    "artist": "Vince Guaraldi Trio",
+    "url": "https://www.deezer.com/track/104271104",
+    "image": "https://cdn-images.dzcdn.net/images/cover/5cc3c1cd98a322e406935358894a64f8/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
     "rank": 21,
-    "title": "That's Just Me",
-    "artist": "Riley Green",
-    "url": "https://www.deezer.com/track/4232198022",
-    "image": "https://cdn-images.dzcdn.net/images/cover/ad14ed05a3a6c974d28f3b6d29c4baa4/250x250-000000-80-0-0.jpg",
+    "title": "All I Want for Christmas Is You",
+    "artist": "Mariah Carey",
+    "url": "https://www.deezer.com/track/62710442",
+    "image": "https://cdn-images.dzcdn.net/images/cover/60d8f7635ead9b3c5e571aec47a8c73e/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
     "rank": 22,
+    "title": "Mexico Honey",
+    "artist": "Kacey Musgraves",
+    "url": "https://www.deezer.com/track/3991431871",
+    "image": "https://cdn-images.dzcdn.net/images/cover/97eafa46695c2708becd77df73766e7c/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 23,
     "title": "Weekend In Texas",
     "artist": "Kacey Musgraves",
     "url": "https://www.deezer.com/track/4358409682",
@@ -1662,23 +1673,7 @@
     "genre_names": []
    },
    {
-    "rank": 23,
-    "title": "I Know I Know",
-    "artist": "STELLA LEFTY",
-    "url": "https://www.deezer.com/track/3968924241",
-    "image": "https://cdn-images.dzcdn.net/images/cover/de65621f938c574d6f8f5676dca2e68e/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
     "rank": 24,
-    "title": "Tieduprightnow",
-    "artist": "Parcels",
-    "url": "https://www.deezer.com/track/490821062",
-    "image": "https://cdn-images.dzcdn.net/images/cover/bde761c4db175eab7504fc50d9ffb451/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 25,
     "title": "Be Her",
     "artist": "Ella Langley",
     "url": "https://www.deezer.com/track/3834003271",
@@ -1686,27 +1681,35 @@
     "genre_names": []
    },
    {
+    "rank": 25,
+    "title": "Dai Dai",
+    "artist": "Shakira",
+    "url": "https://www.deezer.com/track/4015341011",
+    "image": "https://cdn-images.dzcdn.net/images/cover/a7f9bae0243c512059298a68d09f45a1/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
     "rank": 26,
-    "title": "Stargazing",
-    "artist": "Myles Smith",
-    "url": "https://www.deezer.com/track/2758844701",
-    "image": "https://cdn-images.dzcdn.net/images/cover/eaf89238495473e9d78eb75e7a181322/250x250-000000-80-0-0.jpg",
+    "title": "South Of Sanity",
+    "artist": "Zach Top",
+    "url": "https://www.deezer.com/track/3406102021",
+    "image": "https://cdn-images.dzcdn.net/images/cover/57d12f7056016dde26344ff1fda4a312/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
     "rank": 27,
-    "title": "Woman",
-    "artist": "Kane Brown",
-    "url": "https://www.deezer.com/track/3884901601",
-    "image": "https://cdn-images.dzcdn.net/images/cover/84c14dd8a664136f0cf35d54faaed9c2/250x250-000000-80-0-0.jpg",
+    "title": "I Knew It, I Knew You (From \"Toy Story 5\")",
+    "artist": "Taylor Swift",
+    "url": "https://www.deezer.com/track/4058916481",
+    "image": "https://cdn-images.dzcdn.net/images/cover/3524f60445caca0b06a75c30f1e9817c/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
     "rank": 28,
-    "title": "McArthur",
-    "artist": "HARDY",
-    "url": "https://www.deezer.com/track/3792429142",
-    "image": "https://cdn-images.dzcdn.net/images/cover/7d99cd02a6ca6b40e54e9b5263b64208/250x250-000000-80-0-0.jpg",
+    "title": "Merry Christmas Baby",
+    "artist": "Otis Redding",
+    "url": "https://www.deezer.com/track/74663420",
+    "image": "https://cdn-images.dzcdn.net/images/cover/8de4e416ba6963510e9ed21b214ce611/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
@@ -1719,46 +1722,14 @@
    },
    {
     "rank": 30,
-    "title": "You’re Making Me Nervous",
-    "artist": "KC Bruner",
-    "url": "https://www.deezer.com/track/4239727282",
-    "image": "https://cdn-images.dzcdn.net/images/cover/59be18cd6fea52bc358edae2310972cb/250x250-000000-80-0-0.jpg",
+    "title": "That's Just Me",
+    "artist": "Riley Green",
+    "url": "https://www.deezer.com/track/4232198022",
+    "image": "https://cdn-images.dzcdn.net/images/cover/ad14ed05a3a6c974d28f3b6d29c4baa4/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
     "rank": 31,
-    "title": "I Can Feel It",
-    "artist": "Kane Brown",
-    "url": "https://www.deezer.com/track/2453964665",
-    "image": "https://cdn-images.dzcdn.net/images/cover/5eae791aae448d85b733e6b46e1c8fb0/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 32,
-    "title": "Get To Drinkin'",
-    "artist": "Zach John King",
-    "url": "https://www.deezer.com/track/3812467942",
-    "image": "https://cdn-images.dzcdn.net/images/cover/eb346f5ec36a307c3e645b092bf2fee4/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 33,
-    "title": "Don't We",
-    "artist": "Morgan Wallen",
-    "url": "https://www.deezer.com/track/3366677031",
-    "image": "https://cdn-images.dzcdn.net/images/cover/c0a95c46e56018109a6786f9e795acb6/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 34,
-    "title": "Sweet November",
-    "artist": "SZA",
-    "url": "https://www.deezer.com/track/76563092",
-    "image": "https://cdn-images.dzcdn.net/images/cover/1159962710260d77e5e18fa66bfd92e4/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 35,
     "title": "You for Me (Smoky Mountain Demo)",
     "artist": "Megan Moroney",
     "url": "https://www.deezer.com/track/4389086081",
@@ -1766,47 +1737,7 @@
     "genre_names": []
    },
    {
-    "rank": 36,
-    "title": "Kid Myself",
-    "artist": "John Morgan",
-    "url": "https://www.deezer.com/track/3697436932",
-    "image": "https://cdn-images.dzcdn.net/images/cover/d86f9db9d0d128de55171015517dfd9c/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 37,
-    "title": "Christmas Time Is Here",
-    "artist": "Vince Guaraldi Trio",
-    "url": "https://www.deezer.com/track/104271104",
-    "image": "https://cdn-images.dzcdn.net/images/cover/5cc3c1cd98a322e406935358894a64f8/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 38,
-    "title": "Worth Your Wild",
-    "artist": "Russell Dickerson",
-    "url": "https://www.deezer.com/track/3467274001",
-    "image": "https://cdn-images.dzcdn.net/images/cover/5c5836d36d7ce71673b967a3a32d58cc/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 39,
-    "title": "Another Drink",
-    "artist": "Marshmello",
-    "url": "https://www.deezer.com/track/4098248331",
-    "image": "https://cdn-images.dzcdn.net/images/cover/d4575025d97dd15fe46e6a77766961ff/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 40,
-    "title": "Psychopath",
-    "artist": "Morgan Wade",
-    "url": "https://www.deezer.com/track/2282888837",
-    "image": "https://cdn-images.dzcdn.net/images/cover/8f9a3aefc894641eb8771e272de0ac96/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 41,
+    "rank": 32,
     "title": "Last Thing You Need (from GTAVI: The Album)",
     "artist": "Morgan Wallen",
     "url": "https://www.deezer.com/track/4292571182",
@@ -1814,63 +1745,31 @@
     "genre_names": []
    },
    {
-    "rank": 42,
-    "title": "You Shook Me All Night Long",
-    "artist": "AC/DC",
-    "url": "https://www.deezer.com/track/92720048",
-    "image": "https://cdn-images.dzcdn.net/images/cover/41041b14873956eff0459c8ea2c296a8/250x250-000000-80-0-0.jpg",
+    "rank": 33,
+    "title": "Tieduprightnow",
+    "artist": "Parcels",
+    "url": "https://www.deezer.com/track/490821062",
+    "image": "https://cdn-images.dzcdn.net/images/cover/bde761c4db175eab7504fc50d9ffb451/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
-    "rank": 43,
-    "title": "Hell N Back (feat. Summer Walker)",
-    "artist": "Bakar",
-    "url": "https://www.deezer.com/track/2461123655",
-    "image": "https://cdn-images.dzcdn.net/images/cover/35d3ba7440091c12e8380b791ad5d205/250x250-000000-80-0-0.jpg",
+    "rank": 34,
+    "title": "I Know I Know",
+    "artist": "STELLA LEFTY",
+    "url": "https://www.deezer.com/track/3968924241",
+    "image": "https://cdn-images.dzcdn.net/images/cover/de65621f938c574d6f8f5676dca2e68e/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
-    "rank": 44,
-    "title": "Take Me Back (Leave Me There)",
-    "artist": "Cody Johnson",
-    "url": "https://www.deezer.com/track/4046115811",
-    "image": "https://cdn-images.dzcdn.net/images/cover/84a5a5efcb2544418ff704da80e1cc0f/250x250-000000-80-0-0.jpg",
+    "rank": 35,
+    "title": "Don't We",
+    "artist": "Morgan Wallen",
+    "url": "https://www.deezer.com/track/3366677031",
+    "image": "https://cdn-images.dzcdn.net/images/cover/c0a95c46e56018109a6786f9e795acb6/250x250-000000-80-0-0.jpg",
     "genre_names": []
    },
    {
-    "rank": 45,
-    "title": "Jaded",
-    "artist": "Koe Wetzel",
-    "url": "https://www.deezer.com/track/4203392972",
-    "image": "https://cdn-images.dzcdn.net/images/cover/04e9b4edc5c20eac15d3f1edb0b6c18c/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 46,
-    "title": "Medicine",
-    "artist": "Megan Moroney",
-    "url": "https://www.deezer.com/track/3850104061",
-    "image": "https://cdn-images.dzcdn.net/images/cover/198cef16de21eadb6a87ac7e451ad1ac/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 47,
-    "title": "Semi-Charmed Life",
-    "artist": "Third Eye Blind",
-    "url": "https://www.deezer.com/track/366916761",
-    "image": "https://cdn-images.dzcdn.net/images/cover/a09799fc8ef1ea18aa32435bac9cf496/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 48,
-    "title": "TEXAS HOLD 'EM",
-    "artist": "Beyoncé",
-    "url": "https://www.deezer.com/track/2658723742",
-    "image": "https://cdn-images.dzcdn.net/images/cover/e50407841497a26457036110eab49f1b/250x250-000000-80-0-0.jpg",
-    "genre_names": []
-   },
-   {
-    "rank": 49,
+    "rank": 36,
     "title": "Cowgirl",
     "artist": "Shaboozey",
     "url": "https://www.deezer.com/track/4057986201",
@@ -1878,11 +1777,115 @@
     "genre_names": []
    },
    {
+    "rank": 37,
+    "title": "You Shook Me All Night Long",
+    "artist": "AC/DC",
+    "url": "https://www.deezer.com/track/92720048",
+    "image": "https://cdn-images.dzcdn.net/images/cover/41041b14873956eff0459c8ea2c296a8/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 38,
+    "title": "Phone, Keys, Wallet",
+    "artist": "Lainey Wilson",
+    "url": "https://www.deezer.com/track/4049283551",
+    "image": "https://cdn-images.dzcdn.net/images/cover/07958cab57c8ec4ea2224703afabcb7a/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 39,
+    "title": "Medicine",
+    "artist": "Megan Moroney",
+    "url": "https://www.deezer.com/track/3850104061",
+    "image": "https://cdn-images.dzcdn.net/images/cover/198cef16de21eadb6a87ac7e451ad1ac/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 40,
+    "title": "Kingdom of Fear",
+    "artist": "Cameron Whitcomb",
+    "url": "https://www.deezer.com/track/3906722231",
+    "image": "https://cdn-images.dzcdn.net/images/cover/b921e011ed251d5c071685f62474ecca/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 41,
+    "title": "Take Me Back (Leave Me There)",
+    "artist": "Cody Johnson",
+    "url": "https://www.deezer.com/track/4046115811",
+    "image": "https://cdn-images.dzcdn.net/images/cover/84a5a5efcb2544418ff704da80e1cc0f/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 42,
+    "title": "Please Come Home for Christmas (2013 Remaster)",
+    "artist": "Eagles",
+    "url": "https://www.deezer.com/track/68099545",
+    "image": "https://cdn-images.dzcdn.net/images/cover/8865ea11feb44503b118ea4c2021b321/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 43,
+    "title": "Ruthless (Arena Mix)",
+    "artist": "Kacey Musgraves",
+    "url": "https://www.deezer.com/track/4394711721",
+    "image": "https://cdn-images.dzcdn.net/images/cover/ac276a8bb3f6e7045b3579258499b8bb/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 44,
+    "title": "Psychopath",
+    "artist": "Morgan Wade",
+    "url": "https://www.deezer.com/track/2282888837",
+    "image": "https://cdn-images.dzcdn.net/images/cover/8f9a3aefc894641eb8771e272de0ac96/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 45,
+    "title": "Not Falling Out (with Carly Pearce)",
+    "artist": "Max McNown",
+    "url": "https://www.deezer.com/track/4357674492",
+    "image": "https://cdn-images.dzcdn.net/images/cover/7121abf6da9332237ae1a3700f32ea99/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 46,
+    "title": "Self Aware",
+    "artist": "Temper City",
+    "url": "https://www.deezer.com/track/3848530521",
+    "image": "https://cdn-images.dzcdn.net/images/cover/4e803aeb014d512c960b5cc7ccaa1800/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 47,
+    "title": "Woman",
+    "artist": "Kane Brown",
+    "url": "https://www.deezer.com/track/3884901601",
+    "image": "https://cdn-images.dzcdn.net/images/cover/84c14dd8a664136f0cf35d54faaed9c2/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 48,
+    "title": "Here Then We're Gone",
+    "artist": "Ella Langley",
+    "url": "https://www.deezer.com/track/4394711701",
+    "image": "https://cdn-images.dzcdn.net/images/cover/ac276a8bb3f6e7045b3579258499b8bb/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
+    "rank": 49,
+    "title": "Dandelion",
+    "artist": "Ella Langley",
+    "url": "https://www.deezer.com/track/3804079072",
+    "image": "https://cdn-images.dzcdn.net/images/cover/b1bde069e57968a190b0506aef2b6e3e/250x250-000000-80-0-0.jpg",
+    "genre_names": []
+   },
+   {
     "rank": 50,
-    "title": "South Of Sanity",
-    "artist": "Zach Top",
-    "url": "https://www.deezer.com/track/3406102021",
-    "image": "https://cdn-images.dzcdn.net/images/cover/57d12f7056016dde26344ff1fda4a312/250x250-000000-80-0-0.jpg",
+    "title": "Brand New Cadillac",
+    "artist": "The Clash",
+    "url": "https://www.deezer.com/track/539605",
+    "image": "https://cdn-images.dzcdn.net/images/cover/4f1492f815f8a3f1cff18880c48cfa30/250x250-000000-80-0-0.jpg",
     "genre_names": []
    }
   ]
